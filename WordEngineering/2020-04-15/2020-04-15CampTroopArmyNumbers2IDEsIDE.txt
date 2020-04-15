@@ -1,0 +1,12 @@
+11	Asher	Pagiel	Ocran	41500	Numbers 2:27-28
+9	Benjamin	Abidan	Gideoni	35400	Numbers 2:22-23
+10	Dan	Ahiezer	Ammishaddai	62700	Numbers 2:25-26
+7	Ephraim	Elishama	Ammihud	40500	Numbers 2:18-19
+6	Gad	Eliasaph	Deul	45650	Numbers 2:14-15
+2	Issachar	Nethanel	Zuar	54400	Numbers 2:5-6
+1	Judah	Nahshon	Amminadab	74600	Numbers 2:3-4
+8	Manasseh	Gamaliel	Pedahzur	32200	Numbers 2:20-21
+12	Naphtali	Ahira	Enan	53400	Numbers 2:29-30
+4	Reuben	Elizur	Shedeur	46500	Numbers 2:10-11
+5	Simeon	Shelumiel	Zurishaddai	59300	Numbers 2:12-13
+3	Zebulun	Eliab	Helon	57400	Numbers 2:7-8

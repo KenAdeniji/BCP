@@ -1,0 +1,3 @@
+1	677	2004-11-11 00:00:00.000	125	84	77	787	Systolic mmHg 125 when your heart is beating the pressure against the will of the arteries.
+ Diastolic mmHg 84 when your heart stop beating the pressure against the will of the arteries.
+ Pulse bpm 77 the time your heart is beating the rhythm.	

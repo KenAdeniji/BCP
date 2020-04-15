@@ -1,0 +1,21 @@
+1	2007-03-20 00:00:00.000	Weigh the equal opposing English ending circle.	2070320How do we choose the chosen crown in the crowd Save our alive girls Its a transparent equal converting ratio.txt	
+2	2003-10-05 00:00:00.000	From seventh day adventist reference desk. He came in English.	Comforter_-_20031005FromSeventhDayAdventistReferenceDesk_HeCameInEnglish.xml	
+3	2004-07-11 00:00:00.000	The financial stock market has made a concerted effort to keep the British pound from rising beyond 45%, a buy will yield a higher foreign exchange value.	Comforter_-_20040711HowIClosedOutTheFourCakes_TheOrangeesAreYourWickets_PaulaAbdulPlayingOnlyAfterYouHaveToBeAbleToLiveWithHer.xml	
+4	2007-03-20 00:00:00.000	We only live in December.	2070320 Its a formulative cost of the appointed ratio.txt	
+5	2007-03-20 17:09:48.720	Can I marry your avoidance ratio?	2070320 Its a formulative cost of the appointed ratio.txt	
+6	2007-03-20 22:49:21.767	Managing our power in our existence time.	2070320Managing Our Power In Our Existence Time.txt	
+7	2007-03-22 15:45:46.790	What are cancelable options?	20070322What are cancelable options.txt	
+8	2007-03-22 22:39:18.003	The beginning of the seven year period.	20070323If He says this is what I have chosen to do.txt	
+9	2007-03-24 04:01:24.373	Borrowed boots	20070324Noriko Yoshida.txt	
+10	2007-03-24 04:01:47.730	Penis scrotum scrotum	20070324Noriko Yoshida.txt	
+11	2007-03-27 06:30:17.827	Cloak		
+12	2007-03-28 04:04:34.957	More activities all. More hyperlink all. (149 rows affected). SELECT VerseIdSequence, VerseText, ScriptureReferenceWithBracket FROM KJV WHERE CHARINDEX('More', VerseText) < CHARINDEX('All', VerseText) AND CHARINDEX('More', VerseText) > 0 ORDER BY VerseIdSequence GO (149 rows affected)	20070328This is admirable use.txt	
+13	2007-03-28 17:15:26.350	In one mankind is my life reminder. You were asked to knock off the E and R. In on mankind is my lif mind. Its as clear as the ocean and blue. That's my power advantage. When are our admission age permissionable age?	20070328You always last in two count.txt	
+14	2007-04-04 15:36:45.877	I can not observe unlength cost. A4. BART map. NorthWest. Golden Gate Bridge. Pipe on the e for Golden.	20070404I can not observe unlength cost.txt	
+15	2007-04-10 18:53:00.873	Red, e the center letter is the 5th alphabet, and d the last letter is the 4th alphabet.		
+16	2007-05-25 07:44:34.160	The database column names that may have triggered 20040711 British Pound's 45% include dated which is in every table and almost a palindrome except in the remember table which has the datedFrom and datedUntil columns in reference to prophet Daniel's 70th week prophecy. 		
+17	2007-04-06 00:00:00.000	20040711 British Pound's 45%. Twin, twins.		
+18	2008-05-03 23:28:47.190	1335 - 1290 = 45 days.		Daniel 12:11-12
+19	2010-03-04 17:36:00.000	2010-03-04 17:36:00.000 The English will say last year was splendid.		
+20	2010-10-01 00:00:00.000	Prince Philip  is likely my king's husband. That is, if the queen passes away before prince Philip, and prince Charles ascend to the throne. The anti-Christ, and a cup of tea.		
+21	2011-02-02 00:00:00.000	2011-02-02T13:35:00 Oro London. Met with Biodun Adesodun. There was hair all over fatherly figure's make-up kit.	2011-02-02T0855Clarion Church Ministry.sql	

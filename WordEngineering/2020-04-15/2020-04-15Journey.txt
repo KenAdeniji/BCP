@@ -1,0 +1,40 @@
+Jerusalem	1	2003-04-11 11:20:45.903	Israel	Rameses	Numbers 33:5
+Jerusalem	2	2003-04-11 11:25:02.953	Israel	Succoth	Genesis 33:17, Exodus 12:37, Exodus 13:20, Numbers 33:5-6
+Jerusalem	3	2003-04-11 12:05:38.807	Israel	Etham	Exodus 14:2, Exodus 14:9, Numbers 33:7-8, Numbers 33:7-8
+Jerusalem	4	2003-04-11 12:11:53.297	Israel	Marah	Exodus 15:23, Numbers 33:8-9
+Jerusalem	5	2003-04-11 12:15:49.053	Israel	Elim	Exodus 15:27, Numbers 33:9-10
+Jerusalem	6	2003-04-11 12:52:06.677	Israel	Red sea	Exodus 14:21-22, Exodus 14:29, Numbers 33:10-11, Hebrews 11:29
+Jerusalem	7	2003-04-11 12:20:08.307	Israel	Wilderness of Sin	Exodus 16:1, Numbers 33:11-12
+Jerusalem	8	2003-04-11 12:23:01.807	Israel	Rephidim	Exodus 17:1, Numbers 33:14
+Jerusalem	9	2003-04-11 12:32:13.420	Israel	Wilderness of Sinai	Exodus 19:1-2, Numbers 33:15
+Jerusalem	10	2003-04-11 12:38:28.810	Israel	Kibrothhattaavah	Numbers 11:34-35, Numbers 33:16
+Jerusalem	11	2003-04-11 12:41:34.657	Israel	Hazeroth	Numbers 11:35, Numbers 12:16, Numbers 33:17-18
+Jerusalem	12	2003-04-11 12:46:35.100	Israel	Rithmah	Numbers 33:18-19
+Jerusalem	13	2003-04-11 12:48:26.100	Israel	Rimmonparez	Numbers 33:19-20
+Jerusalem	14	2003-04-11 13:22:26.723	Israel	Libnah	Numbers 33:20-21
+Jerusalem	15	2003-04-11 13:28:51.447	Israel	Rissah	Numbers 33:21-22
+Jerusalem	16	2003-04-11 13:30:20.473	Israel	Kehelathah	Numbers 33:22-23
+Jerusalem	17	2003-04-11 13:31:43.433	Israel	Shapher	Numbers 33:23-24
+Jerusalem	18	2003-04-11 13:32:57.150	Israel	Haradah	Numbers 33:24-25
+Jerusalem	19	2003-04-11 13:34:09.093	Israel	Makheloth	Numbers 33:25-26
+Jerusalem	20	2003-04-11 13:35:26.583	Israel	Tahath	Numbers 33:26-27
+Jerusalem	21	2003-04-11 13:36:32.640	Israel	Tarah	Numbers 33:27-28
+Jerusalem	22	2003-04-11 13:37:37.280	Israel	Mithcah	Numbers 33:28-29
+Jerusalem	23	2003-04-11 13:38:45.910	Israel	Hashmonah	Numbers 33:29-30
+Jerusalem	24	2003-04-11 13:39:58.533	Israel	Moseroth	Numbers 33:30-31
+Jerusalem	25	2003-04-11 13:42:53.467	Israel	Benejaakan	Numbers 33:31-32
+Jerusalem	26	2003-04-11 14:27:51.777	Israel	Horhagidgad	Numbers 33:32-33
+Jerusalem	27	2003-04-11 14:28:20.657	Israel	Jotbathah	Numbers 33:33-34
+Jerusalem	28	2003-04-11 14:39:13.957	Israel	Ebronah	Numbers 33:34-35
+Jerusalem	29	2003-04-11 16:40:17.190	Israel	Eziongaber	Numbers 33:35, Deuteronomy 2:8
+Jerusalem	30	2003-04-11 16:59:00.927	Israel	Wilderness of Zin	Numbers 13:21, Numbers 33:36
+Jerusalem	31	2003-04-11 17:03:16.513	Israel	Mount Hor	Numbers 20:22, Numbers 21:4, Numbers 33:37, Numbers 33:41
+Jerusalem	32	2003-04-11 17:09:07.690	Israel	Zalmonah	Numbers 33:41-42
+Jerusalem	33	2003-04-11 17:09:52.013	Israel	Punon	Numbers 33:42-43
+Jerusalem	34	2003-04-11 17:13:35.613	Israel	Oboth	Numbers 21:10-11, Numbers 33:43-44
+Jerusalem	35	2003-04-11 17:15:24.530	Israel	Ijeabarim	Numbers 21:11, Numbers 33:44
+Jerusalem	36	2003-04-11 17:16:24.730	Israel	Iim	Numbers 33:45
+Jerusalem	37	2003-04-11 17:18:03.650	Israel	Dibongad	Numbers 33:45-46
+Jerusalem	38	2003-04-11 17:19:06.300	Israel	Almondiblathaim	Numbers 33:46-47
+Jerusalem	39	2003-04-11 17:23:03.780	Israel	Mount Abarim	Numbers 27:12, Numbers 33:47-48, Deuteronomy 32:49
+Jerusalem	40	2003-04-11 17:27:28.143	Israel	Plains of Moab	Numbers 22:1, Numbers 33:48-49

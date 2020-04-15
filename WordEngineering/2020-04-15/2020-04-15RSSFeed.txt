@@ -1,0 +1,4 @@
+1	Scott on Writing	http://scottonwriting.net/sowblog/Rss.aspx	60
+2	Andy Smith's Blog	http://weblogs.asp.net/asmith/Rss.aspx	60
+3	Scott Watermasysk's Blog	http://weblogs.asp.net/sitenews/Rss.aspx	60
+4	DataGridGirl's Blog	http://weblogs.asp.net/datagridgirl/Rss.aspx	60

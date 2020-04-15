@@ -1,0 +1,10 @@
+1	2013-02-06 22:48:08.240	Water to Blood	Exodus 7:15-25	
+2	2013-02-06 22:49:52.450	Frogs	Exodus 8:1-15	
+3	2013-02-06 22:51:41.633	Lice	Exodus 8:16-19	
+4	2013-02-06 22:53:28.690	Flies	Exodus 8:20-32	
+5	2013-02-06 22:55:55.310	Cattle, horses, asses, camels, oxen, sheep	Exodus 9:1-7	
+6	2013-02-06 22:59:53.200	Boil	Exodus 9:8-12	
+7	2013-02-06 23:03:13.083	Thunder and hail	Exodus 9:13-35	
+8	2013-02-06 23:05:50.787	Locusts	Exodus 10:1-20	
+9	2013-02-06 23:07:23.130	Darkness	Exodus 10:21-29	
+10	2013-02-06 23:10:35.830	Death of the first born	Exodus 11-13	

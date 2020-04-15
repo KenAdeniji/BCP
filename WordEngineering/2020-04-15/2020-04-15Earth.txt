@@ -1,0 +1,44 @@
+Almondiblathaim	2003-04-11 17:18:58.220	1	Numbers 33:46-47	
+Benejaakan	2003-04-11 13:42:47.067	2	Numbers 33:31-32	
+Dibongad	2003-04-11 17:17:50.340	3	Numbers 33:45-46	
+Earth	2003-04-11 14:51:37.747	4	Genesis 1:10, Revelation 21:1-2	
+Ebronah	2003-04-11 14:39:07.610	5	Numbers 33:34-35	
+Elim	2003-04-11 12:14:30.770	6	Exodus 15:27, Exodus 16:1, Numbers 33:9-10	
+Etham	2003-04-11 11:23:07.490	7	Exodus 13:20, Numbers 33:6-8	
+Eziongaber	2003-04-11 16:40:07.847	8	Numbers 33:35, Deuteronomy 2:8	
+Haradah	2003-04-11 13:32:51.050	9	Numbers 33:24-25	
+Hashmonah	2003-04-11 13:38:37.490	10	Numbers 33:29-30	
+Hazeroth	2003-04-11 12:41:11.273	11	Numbers 11:35, Numbers 12:16, Numbers 33:17-18	
+Horhagidgad	2003-04-11 14:27:05.620	12	Numbers 33:32-33	
+Iim	2003-04-11 17:16:18.350	13	Numbers 33:45	
+Ijeabarim	2003-04-11 17:14:36.413	14	Numbers 21:11, Numbers 33:44	
+Jerusalem	2003-04-11 15:19:07.410	15	Daniel 9:24-25, Revelation 3:12, Revelation 21:2, Revelation 21:10	
+Jotbathah	2003-04-11 14:27:45.377	16	Numbers 33:33-34	
+Kehelathah	2003-04-11 13:30:16.690	17	Numbers 33:22-23	
+Kibrothhattaavah	2003-04-11 12:37:25.450	18	Numbers 11:34-35, Numbers 33:16, Deuteronomy 9:22	
+Libnah	2003-04-11 13:22:23.177	19	Numbers 33:20-21	
+Makheloth	2003-04-11 13:34:03.453	20	Numbers 33:25-26	
+Marah	2003-04-11 12:10:19.080	21	Exodus 15:23, Numbers 33:8-9	
+Mithcah	2003-04-11 13:37:29.900	22	Numbers 33:28-29	
+Moseroth	2003-04-11 13:39:37.363	23	Numbers 33:30-31	
+Mount Abarim	2003-04-11 17:21:49.283	24	Numbers 27:12, Numbers 33:47-48, Deuteronomy 32:49	
+Mount Hor	2003-04-11 17:01:45.503	25	Numbers 20:22, Numbers 21:4, Numbers 33:37, Numbers 33:41	
+Oboth	2003-04-11 17:12:56.910	26	Numbers 21:10-11, Numbers 33:43-44	
+Pihahiroth	2003-04-11 12:04:34.573	27	Exodus 14:2, Exodus 14:9, Numbers 33:7-8, Numbers 33:7-8	
+Plains of Moab	2003-04-11 17:27:20.610	28	Numbers 22:1, Numbers 33:48-49	
+Punon	2003-04-11 17:09:47.317	29	Numbers 33:42-43	
+Rameses	2003-04-11 11:05:20.733	30	Genesis 47:11, Exodus 1:11, Exodus 12:37, Numbers 33:3,  Numbers 33:5	
+Red sea	2003-04-11 12:51:41.090	31	Exodus 14:21-22, Exodus 14:29, Numbers 33:10-11, Hebrews 11:29	
+Rephidim	2003-04-11 12:22:40.977	32	Exodus 17:1, Numbers 33:14-15	
+Rimmonparez	2003-04-11 12:48:06.730	33	Numbers 33:19-20	
+Rissah	2003-04-11 13:28:48.210	34	Numbers 33:21-22	
+Rithmah	2003-04-11 12:43:08.530	35	Numbers 33:18-19	
+Shapher	2003-04-11 13:31:37.033	36	Numbers 33:23-24	
+Succoth	2003-04-11 11:16:46.790	37	Genesis 33:17, Exodus 12:37, Exodus 13:20, Numbers 33:5-6	
+Tahath	2003-04-11 13:35:23.760	38	Numbers 33:26-27	
+Tarah	2003-04-11 13:36:26.480	39	Numbers 33:27-28	
+Wilderness of Paran	2003-04-11 12:30:12.557	40	Numbers 10:12	
+Wilderness of Sin	2003-04-11 12:17:44.140	41	Exodus 16:1, Numbers 33:11-12	
+Wilderness of Sinai	2003-04-11 12:28:52.740	42	Exodus 19:1-2, Numbers 33:15-16	
+Wilderness of Zin	2003-04-11 16:58:46.957	43	Numbers 13:21, Numbers 33:36	
+Zalmonah	2003-04-11 17:05:24.640	44	Numbers 33:41-42	

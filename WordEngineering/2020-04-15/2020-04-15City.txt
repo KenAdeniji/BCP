@@ -1,0 +1,7 @@
+5	2007-05-01 19:59:39.577	Dar es Salaam	Capital of Tanzania. The Easter lamb.				
+7	2007-05-07 05:47:23.043	Georgia	Is their too late to Georgia, on ten past, I can't do				
+1	2007-04-20 11:33:39.827	Lyon	Where is Lyon castle? Every city you step in, I shall follow you there.				
+6	2007-05-04 11:24:25.150	Maiduguri	Me, if we love.				
+3	2007-04-28 00:00:00.000	Paris					
+4	2007-04-29 11:06:23.730	San Jose					
+2	2007-04-23 07:52:36.367	Tennessee					

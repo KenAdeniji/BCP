@@ -1,0 +1,12 @@
+11	Asher	53400	Numbers 26:44-47
+9	Benjamin	45600	Numbers 26:38-41
+10	Dan	64400	Numbers 26:42-43
+8	Ephraim	32500	Numbers 26:28, Numbers 26:35-37
+3	Gad	40500	Numbers 26:15-18
+5	Issachar	64300	Numbers 26:23-25
+4	Judah	76500	Numbers 26:19-22
+7	Manasseh	52700	Numbers 26:28-34
+12	Naphtali 	45400	Numbers 26:48-50
+1	Reuben	43730	Numbers 26:5-11
+2	Simeon	22200	Numbers 26:12-14
+6	Zebulun	60500	Numbers 26:26-27

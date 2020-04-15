@@ -1,0 +1,38 @@
+1	2009-12-16 00:00:00.000	Savior	Salvador	Sauveur	Salvador	Retter		
+2	2009-12-16 00:00:01.000	The Chinese	El Chino	Les Chinois	O chinàs	Die chinesische		
+3	2009-12-16 19:07:02.120	Liberators	Libertadores	LibÇrateurs	Libertadores	Befreier		
+4	2009-12-16 19:12:36.773	Cup	Copa	Coupe	Copa	Cup		
+5	2009-12-17 00:33:47.033	Hello world	≠Hola, mundo	Bonjour tout le monde	Ol† mundo	Hallo Welt		
+6	2009-12-18 22:29:40.377	You speak French?	®Hablas francÇs?	Parle le vous Francais?	Vocà fala francàs?	Sie sprechen Franzîsisch?		
+7	2009-12-18 23:12:44.137	Boy	Ni§o	Garáon	Menino	Junge		
+8	2009-12-18 23:16:10.057	Yes	S°	Oui	Sim	Ja		
+9	2009-12-18 23:19:25.443	Girl	Ni§a	Fille	Menina	MÑdchen		
+10	2009-12-18 23:22:13.960	No	No	Non	Nao	Nein		
+11	2009-12-19 12:56:42.530	Mr	Sr.	Monsieur	Sr.	Herr		
+12	2009-12-19 17:51:59.900	Miss	A§orar	Mademoiselle	Perder	Fehlen		
+13	2009-12-20 20:16:21.853	Thank you very much	Muchas gracias	Merci beaucoup	Muito obrigado	Vielen Dank		
+14	2009-12-21 14:04:38.727	Lark I will pluck	Lark voy a arrancar	Alouette je te plumerai	Lark vou arrancar	Lark Ich breche wird		
+15	2009-12-21 19:27:21.400	Saints	Santos	Saints	Santos	Heilige		
+16	2009-12-21 19:35:22.617	Way	Camino	Maniäre	Maneira	Weg		
+17	2009-12-21 19:49:59.433	Food	Comida	Nourriture	Alimento	Nahrung		
+18	2009-12-21 19:55:25.010	Welcome	Bienvenido	Bienvenue	Bem-vindo	Willkommen		
+19	2009-12-21 20:16:11.863	How old are you?	®Cu†ntos a§os tienes?	Quel Ége avez-vous?	Quantos anos vocà tem?	Wie alt bist du?		
+20	2009-12-21 20:30:39.010	Tea	TÇ	ThÇ	Ch†	Tee		
+21	2009-12-21 20:33:52.313	Class	Clase	Classe	Classe	Klasse		
+22	2009-12-21 20:41:24.100	Night	Noche	Nuit	Noite	Nacht		
+23	2009-12-21 20:49:02.273	Field	Campo	Champ	Campo	Feld		
+24	2009-12-21 20:55:44.723	I love you	Te amo	Je t'aime	Eu te amo	 Ich liebe dich		
+25	2010-03-15 18:31:12.397	The boy wonder	El Ni§o Maravilla		O menino-prod°gio	De jongen wonder		
+26	2010-04-28 19:49:00.000	Happy mama day.	Feliz dia mama.					
+29	2010-04-28 20:41:00.000	Children with cancer.	Ninos con cancer.					
+30	2010-04-28 20:48:00.000	Who never wore.	Yo Tampoco Usaba.					
+31	2010-07-11 21:24:20.980	Conqueror	Conquistador	Vainqueur	Conquistador	Eroberer		
+32	2010-07-12 09:42:38.020	Champions	Campeones	Champions	Campeoes	Champions		
+33	2011-04-25 16:17:02.503	Family	Familia	Famille	Familia	Familie		
+34	2011-05-28 21:51:55.737	Election	Elecci¢n	êlection	Seleáao	Wahl		
+35	2011-08-02 19:58:25.427	Royal	Real	Royale	Real	Kîniglich		
+36	2011-08-05 20:03:51.423	The Train	El Tren	Le train	O trem	Der Zug		
+37	2011-08-05 20:13:42.280	The Little Train	El Trencito	Le Petit Train	O trenzinho	Der kleine Zug		
+38	2011-08-13 14:34:14.530	Caution wet floor.	Precauci¢n piso mojado.	Attention au sol humide.	Cuidado piso molhado.	Vorsicht Rutschgefahr.		
+39	2012-04-01 23:08:09.490	Ladies in White	Damas de Blanco	Dames en blanc	Damas de Branco	Damen in Wei·	reuters.com/assets/print?aid=USBRE82P0SQ20120326	1000
+40	2012-05-11 20:16:26.247	Calibrate				Eich	BrendanEich.com	

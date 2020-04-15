@@ -1,0 +1,14 @@
+Othniel the son of Kenaz, Caleb's younger brother	2012-11-07 10:57:53.363	1	Judges 3:9-11	40	Judges 3:11			1	Judges 3:11			Kenaz, Caleb's younger brother	Judges 3:9			Chushanrishathaim king of Mesopotamia	Judges 3:10
+Ehud the son of Gera, a Benjamite, a man lefthanded	2012-11-07 11:30:32.347	2	Judges 3:15-30	80	Judges 3:30							Gera	Judges 3:15			Eglon the king of Moab	Judges 3:12
+Shamgar the son of Anath	2012-11-07 11:31:34.723	3	Judges 3:31									Anath	Judges 3:31				
+Deborah, a prophetess, the wife of Lapidoth	2012-11-07 13:03:36.483	4	Judges 4:4	40	Judges 5:31											Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles	
+Gideon. Jerubbaal the son of Joash	2012-11-07 13:14:12.913	5	Judges 6:11-8:35	40	Judges 8:28			1	Judges 8:32-33			Joash the Abiezrite	Judges 6:11			Midianites	Judges 6:1-7
+Abimelech the son of Jerubbaal	2012-11-07 15:46:18.720	6	Judges 9					1	Judges 9:54-55								
+Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.
+	2012-11-07 15:50:03.270	7	Judges 10:1-2	23	Judges 10:2			1	Judges 10:2			Puah, the son of Dodo	Judges 10:1				
+Jair, a Gileadite	2012-11-07 15:58:40.863	8	Judges 10:3-5	22	Judges 10:3			1	Judges 10:5								
+Jephthah the Gileadite	2012-11-07 16:18:11.200	9	Judges 11:1-12:7	6	Judges 12:7			1	Judges 12:7								
+Ibzan of Bethlehem	2012-11-07 16:24:13.840	10	Judges 12:8-10	7	Judges 12:9			1	Judges 12:10	Bethlehem	Judges 12:10						
+Elon, a Zebulonite	2012-11-07 16:35:02.163	11	Judges 12:11-12	10	Judges 12:11			1	Judges 12:12	Aijalon in the country of Zebulun	Judges 12:12						
+Abdon the son of Hillel, a Pirathonite	2012-11-07 16:40:02.613	12	Judges 12:13-15	8	Judges 12:14			1	Judges 12:15	Pirathon in the land of Ephraim, in the mount of the Amalekites	Judges 12:15	Hillel	Judges 12:13				
+Samson	2012-11-07 16:55:47.003	13	Judges 14-16	20	Judges 15:20, Judges 16:31			1	Judges 16:30	Zorah and Eshtaol in the buryingplace of Manoah his father	Judges 16:31	A certain man of Zorah, of the family of the Danites, whose name was Manoah					

@@ -1,0 +1,62 @@
+1	2005-10-11 11:36:13.863	3810 Campsie	615	2005-08-31 00:00:00.000	Balance Brought Forward			245.00	
+2	2005-10-11 12:47:55.810	3810 Campsie	615	2005-08-31 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 10/ 9/05 Part Payment 0.00 to 8/10/05 Part Payment 0.00			960.00	
+3	2005-10-11 12:49:36.000	3810 Campsie	615	2005-09-16 00:00:00.000	32486 Strata Plan 53850 Strata Levy Due 1.9.05	333.80			
+4	2005-11-10 12:51:40.000	3810 Campsie	615	2005-09-27 00:00:00.000	32501 L.J. Hooker Campsie Express Post Envelope	3.30	.30		
+5	2005-10-11 12:53:23.000	3810 Campsie 	615	2005-09-27 00:00:00.000	32595 Strata Plan 53850 Special Levy Due 1.10.05	226.95			
+6	2005-10-11 13:01:19.637	3810 Campsie 	615	2005-09-27 00:00:00.000	Sundry Charges	5.35	.50		
+7	2005-10-11 13:02:08.493	3810 Campsie	615	2005-09-27 00:00:00.000	Commission	52.80	4.80		
+8	2005-10-11 13:05:52.407	3810 Campsie	615	2005-09-01 00:00:00.000	32456 Owner Payments/Owner Requested AUSSIE HOME LOAN	245.00			
+9	2005-10-11 13:10:18.380	3810 Campsie	615	2005-09-30 00:00:00.000	32652 Owner Payments MR KEN ADENIJI Deposited to 062-151 10005724 at Commonwealth Bank - Crows Nest	337.80			
+10	2005-11-05 09:12:46.123	3810 Campsie	615	2005-09-30 00:00:00.000	Balance Brought Forward				
+11	2005-11-05 09:14:31.657	3810 Campsie	615	2005-09-30 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 8/10/05 Part Payment 0.00 to 5/11/05 Part Payment 0.00			960.00	
+12	2005-11-05 09:16:14.643	3810 Campsie	615	2005-10-24 00:00:00.000	32794 Sydney Water Water Rates 1.10.05-31.12.05	107.65			
+13	2005-11-05 09:23:02.597	3810 Campsie	615	2005-10-24 00:00:00.000	Sundry Charges	4.35	.40		
+14	2005-11-05 09:23:43.890	3810 Campsie	615	2005-10-24 00:00:00.000	Commission	52.80	4.80		
+15	2005-11-05 09:25:19.727	3810 Campsie	615	2005-10-31 00:00:00.000	32874 Owner Payments MR KEN ADENIJI	795.20			
+16	2005-12-09 10:03:55.000	3810 Campsie	615	2005-10-31 00:00:00.000	Balance Brought Forward 			.00	
+17	2005-12-09 10:07:44.190	3810 Campsie	615	2005-10-31 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 5/11/05 Part Payment 0.00 to 3/12/05 Part Payment 0.00			960.00	
+18	2005-12-09 10:09:10.000	3810 Campsie	615	2005-11-22 00:00:00.000	208 Canterbury City Council Rate 2nd Instalment	161.60			
+19	2005-12-09 10:11:00.650	3810 Campsie	615	2005-11-24 00:00:00.000	33050 Strata Plan 53850 Strata Levy Due 1.12.05	333.80			
+20	2005-12-09 10:12:39.000	3810 Campsie	615	2005-11-28 00:00:00.000	33110 Digga's Plumbing Plumbing Rps/Taps & Toilet Ph/Fax: 9758 8430 Mobile: 0419 284 596 PO Box 184 Belfield NSW 2191 Date 7/11/2005 Invoice No 00009530 Contact Harry Supply & Install a new inlet washer & a new outlet washer to the toilet cistern. Cleaned the toilet seat. Entered 26.11.05 By Sophie Paid ON 28/11/05 Chq NO. 33110. Terms: Net 30. This is a payment claim made under the Building and Construction Industry Security of Payment ACT 1999 NSW.	77.00	7.00		
+21	2005-12-09 10:14:02.573	3810 Campsie	615	2005-11-28 00:00:00.000	Sundry Charges	5.35	.50		
+22	2005-12-09 10:15:07.117	3810 Campsie	615	2005-11-28 00:00:00.000	Commission	52.80	4.80		
+23	2005-12-09 10:16:31.143	3810 Campsie	615	2005-11-30 00:00:00.000	33115 Owner Payments MR KEN ADENIJI	329.45			
+24	2006-03-26 09:03:03.000	3810 Campsie	615	2006-02-28 00:00:00.000	Balance Brought Forward			287.65	
+25	2006-03-26 09:06:58.817	3810 Campsie	615	2006-01-31 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 11/2/06 Part Payment 0.00 to 25/2/06 Part Payment 0.00			480.00	
+26	2006-03-26 09:11:20.243	3810 Campsie	615	2006-02-21 00:00:00.000	209 Canterbury City Council Countil Rate 3rd Instalment	161.60			
+27	2006-03-26 09:13:13.017	3810 Campsie	615	2006-02-21 00:00:00.000	Sundry Charges	4.35	.40		
+28	2006-03-26 09:14:55.907	3810 Campsie	615	2006-02-21 00:00:00.000	Commission	26.40	2.40		
+29	2006-03-26 17:49:10.953	3810 Campsie	615	2005-12-21 00:00:00.000	Balance Brought Forward				
+30	2006-03-26 17:51:35.423	3810 Campsie	615	2005-12-21 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 31/12/05 Part Payment 0.00 to 11/2/06 Part Payment 0.00			1440.00	
+31	2006-03-26 17:53:34.753	3810 Campsie	615	2006-01-24 00:00:00.000	33511 Sydney Water Water Rates 1.1.06-31.3.06	107.65			
+32	2006-03-26 17:55:27.203	3810 Campsie	615	2006-01-24 00:00:00.000	Sundry Charges	4.35	.40		
+33	2006-03-26 17:57:16.080	3810 Campsie	615	2006-01-24 00:00:00.000	Commission	79.20	7.20		
+34	2006-03-26 18:00:54.323	3810 Campsie	615	2006-01-31 00:00:00.000	33585 Owner Payments MR KEN ADENIJI	1248.80			
+35	2006-04-09 11:19:58.023	3810 Campsie	615	2006-02-28 00:00:00.000	Balance Brought Forward				
+37	2006-04-09 11:25:13.060	3810 Campsie	615	2006-02-28 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 25/2/06 Inhand 0.00 to 8/4/06 Inhand: 0.00			1440.00	
+38	2006-04-09 11:27:13.950	3810 Campsie	615	2006-03-08 00:00:00.000	33914 Strata PLan 53850 Strata Levy Due 1.3.06	333.80			
+39	2006-04-09 11:28:06.827	3810 Campsie	615	2006-03-08 00:00:00.000	Sundry Charges	4.35	.40		
+40	2006-04-09 11:29:22.213	3810 Campsie	615	2006-03-08 00:00:00.000	Commission	79.20	7.20		
+41	2006-04-09 11:32:39.533	3810 Campsie	615	2006-03-31 00:00:00.000	34101 Owner Payments Deposited to 062-151 10005724 at Commonwealth Bank - Crows Nest	1310.30			
+42	2006-05-08 19:51:34.800	3810 Campsie	615	2006-03-31 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 8/4/06 Inhand 0.00 to 6/5/06 Inhand: 0.00			960.00	
+43	2006-05-08 19:53:19.140	3810 Campsie	615	2006-04-19 00:00:00.000	34222 Sydney Water Water Rates 1/4/06-30/6/6	107.65			
+44	2006-05-08 19:55:48.490	3810 Campsie	615	2006-04-19 00:00:00.000	Sundry Charges	4.35	.40		
+45	2006-05-08 19:56:44.053	3810 Campsie	615	2006-04-19 00:00:00.000	Commission	52.80	4.80		
+46	2006-05-08 19:58:12.813	3810 Campsie	615	2006-05-01 00:00:00.000	34324 Owner Payments MR KEN ADENIJI	795.20			
+47	2006-06-05 19:36:33.380	3810 Campsie	615	2006-05-01 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 6/5/06 Inhand 0.00 to 3/6/06 Inhand: 0.00	960.00			
+48	2006-06-05 19:39:02.207	3810 Campsie	615	2006-05-25 00:00:00.000	34466 Canterbury City Council Council Rate Due 31/5/06	161.60			
+49	2006-06-05 19:40:48.000	3810 Campsie	615	2006-05-30 00:00:00.000	34552 Strata Plan 53850 Strata Lavy Due 1/6/6				
+52	2006-06-05 19:43:20.400	3810 Campsie	615	2006-05-30 00:00:00.000	Sundry Charges	4.85	.45		
+53	2006-06-05 19:44:08.657	3810 Campsie	615	2006-05-30 00:00:00.000	Commission	52.80	4.80		
+54	2006-06-05 19:45:53.420	3810 Campsie	615	2006-05-31 00:00:00.000	211 Owner Payments MR KEN ADENIJI	407.00			
+55	2006-07-20 14:35:41.787	3810 Campsie	615	2006-05-31 00:00:00.000	Balance Brought Forward				
+56	2006-07-20 14:38:33.577	3810 Campsie	615	2006-05-31 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 3/6/06 Inhand 0.00 to 1/7/06 Inhand: 0.00				
+57	2006-07-20 14:40:48.523	3810 Campsie	615	2006-05-31 00:00:00.000	Total Charges	56.65	5.15		
+58	2006-07-20 14:42:09.000	3810 Campsie	615	2006-06-30 00:00:00.000	34713 Owner Payments MR KEN ADENIJI	903.35			
+59	2006-08-07 10:25:42.367	3810 Campsie	615	2006-06-30 00:00:00.000	Balance Brought Forward			.00	
+60	2006-08-07 10:28:45.420	3810 Campsie	615	2006-06-30 00:00:00.000	Rental Income 3/7 Seventh Avenue: Weekly Normal Rent of 240.00 Mabel Pailos & Carlos Pailos Rent: 1/7/06 Inhand 0.00 to 29/7/06 Inhand: 0.00			960.00	
+61	2006-08-07 10:30:55.647	3810 Campsie	615	2006-07-28 00:00:00.000	34871 L.J. Hooker Campsie International Postage	3.10	.28		
+62	2006-08-07 10:32:12.783	3810 Campsie	615	2006-07-28 00:00:00.000	34928 Sydney Water Water Rates	111.90			
+63	2006-08-07 10:34:17.747	3810 Campsie	615	2006-07-28 00:00:00.000	Sundry Charges	4.85	.45		
+64	2006-08-07 10:36:34.083	3810 Campsie	615	2006-07-28 00:00:00.000	Commission	52.80	4.80		
+65	2006-08-07 10:40:20.057	3810 Campsie	615	2006-07-31 00:00:00.000	34930 Owner Payments MR KEN ADENIJI	787.35			

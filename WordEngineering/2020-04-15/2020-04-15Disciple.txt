@@ -1,0 +1,13 @@
+1	2012-10-28 11:59:03.683	Simon Peter		Matthew 10:2, Mark 3:16	Cephas, Barjona
+2	2012-10-28 12:01:47.657	Andrew 		Matthew 10:2, Mark 3:18	
+3	2012-10-28 12:02:56.483	James the son of Zebedee		Matthew 10:2, Mark 3:17	Boanerges, Son of Thunder
+4	2012-10-28 12:03:42.617	John		Matthew 10:2, Mark 3:17	Boanerges, Son of Thunder
+5	2012-10-28 12:06:37.240	Philip		Matthew 10:3, Mark 3:18	
+6	2012-10-28 12:07:10.453	Bartholomew		Matthew 10:3, Mark 3:18	
+7	2012-10-28 12:09:29.770	Thomas	Didymus	Matthew 10:3, Mark 3:18, John 11:16, John 20:24	Twin
+8	2012-10-28 12:10:46.200	Matthew the publican		Matthew 10:3, Mark 3:18	
+9	2012-10-28 12:11:31.227	James the son of Alphaeus		Matthew 10:3, Mark 3:18	
+10	2012-10-28 12:12:24.403	Lebbaeus, whose surname was Thaddaeus		Matthew 10:3, Mark 3:18	
+11	2012-10-28 12:13:11.320	Simon the Canaanite		Matthew 10:4, Mark 3:18	
+12	2012-10-28 12:14:02.190	Judas Iscariot		Matthew 10:4, Mark 3:19	
+13	2012-10-28 12:20:12.453	Matthias		Acts 1:26	

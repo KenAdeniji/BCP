@@ -1,0 +1,69 @@
+1	2012-11-08 21:06:10.303	Moses	Exodus 2:10, Ezra 3:2	Because I drew him out of the water. 2015-05-29 Moses the man of God (Ezra 3:2).		
+2	2012-11-08 21:10:17.990	Gershom	Exodus 18:3	I have been an alien in a strange land.		
+3	2012-11-08 21:12:00.063	Eliezer	Exodus 18:4	For the God of my father, said he, was mine help, and delivered me from the sword of Pharaoh.		
+4	2012-11-09 13:52:13.930	Joshua	Numbers 13:8, Numbers 13:16, Numbers 14:6	Moses called Oshea the son of Nun Jehoshua.  Joshua the son of Nun.		
+5	2012-11-10 15:22:42.023	Dinah	Genesis 46:15	These be the sons of Leah, which she bare unto Jacob in Padanaram, with his daughter Dinah: all the souls of his sons and his daughters were thirty and three.		
+6	2012-12-11 19:01:51.320	Joses Barnabas	Acts 4:36	Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, and of the country of Cyprus.		
+7	2012-12-20 21:21:49.597	Simeon that was called Niger	Acts 13:1			
+8	2012-12-21 21:04:00.000	Lydia	Acts 16:14	A seller of purple.	257	
+9	2013-01-02 18:09:47.777	Samuel	1 Samuel 1:20	Because I have asked him of the LORD. 2013-03-16 In favor with both God and man (1 Samuel 2:26, Luke 2:52). 1 Samuel 2:26, chapterIdSequence 238. Luke 2:52, chapterIdSequence, 975. 975 - 238 = 737.		
+10	2013-01-07 05:14:00.000	Clement	Philippians 4:3			
+11	2013-01-08 01:36:23.380	Jeremiah		Anathoth.		
+12	2013-01-09 00:00:00.000	Rachel		Rahel.		
+13	2013-01-11 07:45:48.090	Philip	Acts 8:34			
+50	2013-02-04 11:34:18.687	Shiphrah	Exodus 1:15			
+51	2013-02-04 11:34:36.470	Puah	Exodus 1:15			
+52	2013-02-06 22:00:00.000	Amram	Exodus 6:20	Moses' father.		
+53	2013-02-06 22:00:00.000	Jochebed	Exodus 6:20	Moses' mother.		
+54	2013-03-06 18:50:48.153	Justus	Acts 18:7			
+55	2013-03-14 00:00:00.000	Phinehas, the son of Eleazar, the son of Aaron	Judges 20:28			
+56	2013-03-16 21:48:51.010	Hannah	1 Samuel 2:21			
+57	2013-03-16 21:59:26.533	Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite	1 Samuel 1:1			
+58	2013-03-16 22:01:50.123	Peninnah	1 Samuel 1:2			
+1056	2013-03-24 21:38:14.120	Solomon Jedidiah	2 Samuel 12:24-25	Because of the LORD.		
+1057	2013-03-25 22:16:03.380	Barzillai	2 Samuel 19:32, 2 Samuel 19:35			
+1058	2013-03-26 05:05:05.957	Esau	Genesis 36:15-18, Genesis 36:29-30, Genesis 36:40-43, 1 Chronicles 1:51-54			
+1059	2013-04-16 23:25:40.053	Gennesaret	Matthew 14:34			
+1060	2013-04-24 00:00:00.000	Bartimaeus, the son of Timaeus				
+1061	2013-05-02 23:38:00.000	Joseph of Arimathaea	Luke 23:50-51			
+1062	2013-08-11 22:34:40.000	Tamar	Genesis 38, Ruth 4:12			
+1063	2013-08-20 22:52:00.000	Bezaleel	Exodus 31:1-6, Exodus 35:30-35	Decent hope.		
+1064	2015-05-05 21:11:16.760	Lazarus of Bethany				
+1065	2015-05-05 21:11:29.410	Mary of Bethany				
+1066	2015-05-05 21:11:40.553	Martha of Bethany				
+14	2013-01-11 07:53:43.593	Paul				
+15	2013-01-15 01:02:52.710	The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite:	2 Samuel 23:8			
+16	2013-01-15 01:10:02.527	Eleazar the son of Dodo the Ahohite	2 Samuel 23:9-10			
+17	2013-01-15 01:14:36.333	Shammah the son of Agee the Hararite	2 Samuel 23:11-12			
+18	2013-01-15 01:16:37.117	Abishai, the brother of Joab, the son of Zeruiah	2 Samuel 23:18-19			
+19	2013-01-15 01:19:31.377	Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel	2 Samuel 23:22-23			
+20	2013-01-15 01:28:05.550	Asahel the brother of Joab	2 Samuel 23:24			
+21	2013-01-15 01:29:37.820	Elhanan the son of Dodo of Bethlehem	2 Samuel 23:24			
+22	2013-01-15 01:30:41.417	Shammah the Harodite				
+23	2013-01-15 01:31:08.373	Elika the Harodite				
+24	2013-01-15 01:34:24.247	Helez the Paltite				
+25	2013-01-15 01:35:54.680	Abiezer the Anethothite				
+26	2013-01-15 01:36:37.673	Mebunnai the Hushathite				
+27	2013-01-15 01:37:46.083	Zalmon the Ahohite				
+28	2013-01-15 01:38:34.550	Maharai the Netophathite				
+29	2013-01-15 01:39:26.407	Heleb the son of Baanah, a Netophathite				
+30	2013-01-15 01:40:25.780	Ittai the son of Ribai out of Gibeah of the children of Benjamin				
+31	2013-01-15 01:45:13.713	Benaiah the Pirathonite				
+32	2013-01-15 01:46:49.930	Hiddai of the brooks of Gaash				
+33	2013-01-15 01:49:01.330	Abialbon the Arbathite				
+34	2013-01-15 01:51:23.513	Azmaveth the Barhumite				
+35	2013-01-15 01:54:14.700	Eliahba the Shaalbonite				
+36	2013-01-15 01:54:56.370	Of the sons of Jashen, Jonathan				
+37	2013-01-15 02:06:53.760	Shammah the Hararite				
+38	2013-01-15 02:07:21.610	Ahiam the son of Sharar the Hararite				
+39	2013-01-15 02:08:12.247	Eliphelet the son of Ahasbai, the son of the Maachathite				
+40	2013-01-15 02:08:44.333	Eliam the son of Ahithophel the Gilonite				
+41	2013-01-15 02:21:20.730	Hezrai the Carmelite				
+42	2013-01-15 02:26:47.133	Paarai the Arbite				
+43	2013-01-15 02:27:11.950	Igal the son of Nathan of Zobah				
+44	2013-01-15 02:27:28.460	Bani the Gadite				
+45	2013-01-15 02:29:22.833	Zelek the Ammonite				
+46	2013-01-15 02:30:11.893	Nahari the Beerothite, armourbearer to Joab the son of Zeruiah				
+47	2013-01-15 02:30:39.110	Ira an Ithrite				
+48	2013-01-15 02:30:55.933	Gareb an Ithrite				
+49	2013-01-15 02:31:30.827	Uriah the Hittite				

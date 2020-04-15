@@ -1,0 +1,12 @@
+9	2012-11-10 11:33:32.820	Dan	Ammiel	Gemalli	Numbers 13:12			
+3	2012-11-10 11:33:05.910	Judah	Caleb	Jephunneh	Numbers 13:6			
+8	2012-11-10 11:33:27.570	Manasseh	Gaddi	Susi	Numbers 13:11			
+7	2012-11-10 11:33:23.187	Zebulun	Gaddiel	Sodi	Numbers 13:10			
+12	2012-11-10 11:33:51.220	Gad	Geuel	Machi	Numbers 13:15			
+4	2012-11-10 11:33:09.807	Issachar	Igal	Joseph	Numbers 13:7			
+11	2012-11-10 11:33:46.310	Naphtali	Nahbi	Vophsi	Numbers 13:14			
+5	2012-11-10 11:33:14.593	Ephraim	Oshea, Jehoshua, Joshua	Nun	Numbers 13:8			
+6	2012-11-10 11:33:18.900	Benjamin	Palti	Raphu	Numbers 13:9			
+10	2012-11-10 11:33:42.083	Asher	Sethur	Michael	Numbers 13:13			
+1	2012-11-10 11:32:57.953	Reuben	Shammua	Zaccur	Numbers 13:4			
+2	2012-11-10 11:33:01.920	Simeon	Shaphat	Hori	Numbers 13:5			

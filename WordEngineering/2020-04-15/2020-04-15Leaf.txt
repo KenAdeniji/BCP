@@ -1,0 +1,22 @@
+1	2003-12-12 00:00:00.000	Melchizedek	Genesis 14:20	Tithe
+2	2003-12-12 00:00:00.000	Abraham	Genesis 17:13, Genesis 24:38, Genesis 24:60	Circumcise
+3	2003-12-12 00:00:00.000	Moses	Exodus 15:25-27, Revelation 22:1-2	Heal
+4	2003-12-12 00:00:00.000	Isaiah	Isaiah 6:13	Seed
+5	2003-12-12 00:00:00.000	Jeremiah	Jeremiah 17:7-8	Deep
+6	2003-12-12 00:00:00.000	Ezekiel	Ezekiel 41:24-26, Ezekiel 47:1-12	Season
+7	2003-12-12 00:00:00.000	Daniel	Daniel 11:33-35	Appoint
+8	2003-12-12 00:00:00.000	David	2 Samuel 16:12, 1 Kings 2:5	Reciprocal
+9	2003-12-12 00:00:00.000	Solomon	Genesis 2:19-20, 1 Kings 4:33	Above
+10	2003-12-12 00:00:00.000	Amos	Amos 7:14	Gather
+11	2003-12-12 00:00:00.000	Jonah	Jonah 4:6-9	Shade
+12	2003-12-12 00:00:00.000	Micah	Micah 1:14-15	Present
+13	2003-12-12 00:00:00.000	Habakkuk	Habakkuk 2:2	Letter
+14	2003-12-12 00:00:00.000	Zephaniah	Zephaniah 3:2	Correct
+15	2003-12-12 00:00:00.000	Haggai	Haggai 1:7	House
+16	2003-12-12 00:00:00.000	Zechariah	Zechariah 14:20-21	Holy
+17	2003-12-12 00:00:00.000	Malachi	Malachi 2:5-7	Covenant
+18	2003-12-12 00:00:00.000	Jesus	Matthew 5:24, John 14:18	Reconcile
+19	2003-12-12 00:00:00.000	Peter	1 Peter 1:12	Reveal
+20	2003-12-12 00:00:00.000	Paul	2 Timothy 3:10	Ancestor
+21	2003-12-12 00:00:00.000	John	1 John 3:18-20	Assure
+22	2003-12-13 00:00:00.000	Devil	Revelation 6:13-14	Fall

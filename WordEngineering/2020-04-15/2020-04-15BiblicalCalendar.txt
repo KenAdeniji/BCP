@@ -1,0 +1,28 @@
+1	2012-03-01 00:00:00.000		7	10	Day of atonement.	Leviticus 16:29		
+2	2012-03-01 00:00:00.000		1	10	Choose the passover lamb.			
+3	2012-03-01 00:00:00.000		1	14	Sacrifice the passover lamb.			
+4	2012-03-01 00:00:00.000		1	15	Festival of unfermented cakes.			
+5	2012-03-01 00:00:00.000		7	15	Festival of booths.			
+6	2012-03-01 00:00:00.000		2	14	Sacrifice the passover lamb, if during the first month and fourteenth day, unclean by a soul or off on a distant journey.			
+7	2016-03-17 17:16:45.010			1		Genesis 1:5		
+8	2016-03-17 17:17:32.567			2		Genesis 1:8		
+9	2016-03-17 17:17:49.527			3		Genesis 1:13		
+10	2016-03-17 17:18:32.223			4		Genesis 1:19		
+11	2016-03-17 17:56:13.417			5		Genesis 1:23		
+12	2016-03-17 17:56:45.630			6		Genesis 1:31		
+13	2016-03-17 17:57:34.373			7	Sabbath Day - Rest	Genesis 2:2, Genesis 2:3, Genesis 8:10, Genesis 8:12		
+14	2016-03-17 18:16:01.100	130			Adam's age at the birth of Seth.	Genesis 5:3		
+15	2016-03-17 18:35:07.640	800			Adam's years after the birth of Seth.	Genesis 5:4		
+16	2016-03-17 18:48:01.617	930			Years Adam lived	Genesis 5:5		
+17	2016-03-17 18:51:04.103	105			Seth's age at the birth of Enos	Genesis 5:6		
+18	2016-03-17 19:21:09.347	807			Seth's years after he gave birth to Enos	Genesis 5:7		
+19	2016-03-17 19:23:50.660	912			Years Adam lived.	Genesis 5:8		
+20	2017-02-02 18:13:00.260	98			Eli was ninety and eight years old.	1 Samuel 4:15		
+21	2017-02-07 20:57:10.660		42			Revelation 11:2		
+22	2017-02-13 20:14:34.427	14				2 Corinthians 12		
+23	2017-02-22 21:24:38.197		7	17		Genesis 8:4		
+24	2017-02-22 21:27:36.140			150	the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.	Genesis 7:24, Genesis 8:3		
+25	2017-02-22 21:32:55.443		10	1	the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.	Genesis 8:5		
+26	2017-02-22 21:35:47.160			40	It came to pass at the end of forty days, that Noah opened the window of the ark which he had made:	Genesis 8:6		
+27	2017-09-14 00:00:00.000	2				Matthew 2:16		
+28	2018-02-15 17:31:10.693	11	3	1	I want to build, my master's children.	Ezekiel 31:1	113	fortune.com/2018/02/15/donald-trump-online-sales-tax
