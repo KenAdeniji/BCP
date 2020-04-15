@@ -1,0 +1,593 @@
+1	2015-10-13 00:00:00.000	Every representative is a symbol	Sweet psalmist	David	2 Samuel 23:1					
+2	2015-10-13 00:00:00.000	Every representative is a symbol	Friend	Abraham	Isaiah 41:8, Exodus 33:11, 2 Chronicles 20:7			2016-03-14 2 Chronicles 20:7. 2016-04-12 Counsel.		
+4	2015-10-25 10:55:23.727	Father and people	Moabites	Moab	Genesis 19:37, Ruth 2:2					
+5	2015-10-25 10:58:13.700	Father and people	Ammon	Benammi	Genesis 19:38					
+6	2015-10-25 10:58:55.863	Father and people	Jews	Israel						
+7	2015-11-02 00:11:54.760	Mighty men of David	The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite	Adino	2 Samuel 23:8					
+8	2015-11-02 00:14:53.533	Mighty men of David	Eleazar the son of Dodo the Ahohite	Eleazar	2 Samuel 23:9-10					
+9	2015-11-02 00:19:31.170	Mighty men of David	Shammah the son of Agee the Hararite	Shammah	2 Samuel 23:11-12					
+10	2015-11-02 03:03:31.140	Mighty men of David	The brother of Joab, the son of Zeruiah, was chief among three.	Abishai	2 Samuel 23:18-19					
+11	2015-11-13 16:13:12.783	Color	Many	Joseph	Genesis 37:3, Genesis 37:23, Genesis 37:32			Cloth		
+12	2015-11-13 16:15:11.773	Color	Bdellium	God	Numbers 11:7			Manna		
+13	2015-11-13 16:17:43.320	Color	Divers	Sisera	Judges 5:30, 2 Samuel 13:18, 2 Samuel 13:19, 1 Chronicles 29:2					
+14	2015-11-13 16:20:20.033	Color	Rainbow	LORD God Almighty	Revelation 4:3, Revelation 10:1					
+15	2015-11-13 16:25:10.593	Color	Red	Esau	Genesis 25:25, Genesis 25:30, Genesis 49:12,  Exodus 25:5, Exodus 26:14, Exodus 35:7, Exodus 35:23, Exodus 36:19, Exodus 39:34, Numbers 19:2, 2 Kings 3:22, Esther 1:6, Psalms 75:8, Proverbs 23:31, Isaiah 1:18, Isaiah 27:2, Isaiah 63:2, Nahum 2:3, Zechariah 1:8, Zechariah 6:2, Matthew 16:2, Matthew 16:3, Revelation 6:4, Revelation 12:3					
+16	2015-11-13 16:34:08.823	Color	White	Jacob	Genesis 30:35, Genesis 30:37, Genesis 40:16, Genesis 49:12, Exodus 16:31, Leviticus 13:3, Leviticus 13:4, Leviticus 13:10, Leviticus 13:13, Leviticus 13:16, Leviticus 13:17, Leviticus 13:19, Leviticus 13:20, Leviticus 13:21, Leviticus 13:24, Leviticus 13:25, Leviticus 13:26, Leviticus 13:38, Leviticus 13:39, Leviticus 13:42, Leviticus 13:43, Numbers 12:10, Judges 5:10, 2 Kings 5:27, 2 Chronicles 5:12, Esther 1:6, Esther 8:15, Job 6:6, Psalms 68:14, Ecclesiastes 9:8, Song of Solomon 5:10, Isaiah 1:18, Ezekiel 27:18, Daniel 7:9, Daniel 11:35, Daniel 12:10, Joel 1:7, Zechariah 1:8, Zechariah 6:3, Zechariah 6:6, Matthew 5:36, Matthew 17:2, Matthew 28:3, Mark 9:3, Mark 16:5, Luke 9:29, John 4:35, John 20:12, Acts 1:10, Revelation 1:14, Revelation 2:17, Revelation 3:4, Revelation 3:5, Revelation 3:18, Revelation 4:4, Revelation 6:2, Revelation 6:11, Revelation 7:9, Revelation 7:13, Revelation 7:14, Revelation 14:14, Revelation 15:6, Revelation 19:8, Revelation 19:11, Revelation 19:14, Revelation 20:11					
+17	2015-11-13 16:38:03.623	Color	Black	Plague of the scall	Leviticus 13:31, Leviticus 13:37, 1 Kings 18:45, Esther 1:6, Job 30:30, Proverbs 7:9, Song of Solomon 1:5, Song of Solomon 1:6, Song of Solomon 5:11, Jeremiah 4:28, Jeremiah 8:21, Jeremiah 14:2, Lamentations 5:10, Zechariah 6:2, Zechariah 6:6, Matthew 5:36, Revelation 6:5, Revelation 6:12					
+18	2015-11-13 16:40:22.887	Color	Blue	Children of Israel	Exodus 25:4, Exodus 26:1, Exodus 26:4, Exodus 26:31, Exodus 26:36, Exodus 27:16, Exodus 28:5, Exodus 28:6, Exodus 28:8, Exodus 28:15, Exodus 28:28, Exodus 28:31, Exodus 28:33, Exodus 28:37, Exodus 35:6, Exodus 35:23, Exodus 35:25, Exodus 35:35, Exodus 36:8, Exodus 36:11, Exodus 36:35, Exodus 36:37, Exodus 38:18, Exodus 38:23, Exodus 39:1, Exodus 39:2, Exodus 39:3, Exodus 39:5, Exodus 39:8, Exodus 39:21, Exodus 39:22, Exodus 39:24, Exodus 39:29, Exodus 39:31, Numbers 4:6, Numbers 4:7, Numbers 4:9, Numbers 4:11, Numbers 4:12, Numbers 15:38, 2 Chronicles 2:7, 2 Chronicles 2:14, 2 Chronicles 3:14, Esther 1:6, Esther 8:15, Jeremiah 10:9, Ezekiel 23:6, Ezekiel 27:7, Ezekiel 27:24					
+19	2015-11-13 16:41:41.630	Color	Brown	Cattle	Genesis 30:32, Genesis 30:33, Genesis 30:35, Genesis 30:40					
+20	2015-11-13 16:43:06.743	Color	Purple	Children of Israel	Exodus 25:4, Exodus 26:1, Exodus 26:31, Exodus 26:36, Exodus 27:16, Exodus 28:5, Exodus 28:6, Exodus 28:8, Exodus 28:15, Exodus 28:33, Exodus 35:6, Exodus 35:23, Exodus 35:25, Exodus 35:35, Exodus 36:8, Exodus 36:35, Exodus 36:37, Exodus 38:18, Exodus 38:23, Exodus 39:1, Exodus 39:2, Exodus 39:3, Exodus 39:5, Exodus 39:8, Exodus 39:24, Exodus 39:29, Numbers 4:13, Judges 8:26, 2 Chronicles 2:7, 2 Chronicles 2:14, 2 Chronicles 3:14, Esther 1:6, Esther 8:15, Proverbs 31:22, Song of Solomon 3:10, Song of Solomon 7:5, Jeremiah 10:9, Ezekiel 27:7, Ezekiel 27:16, Mark 15:17, Mark 15:20, Luke 16:19, John 19:2, John 19:5, Acts 16:14, Revelation 17:4, Revelation 18:12, Revelation 18:16					
+22	2015-11-13 16:45:43.580	Color	Green	Animal	Genesis 1:30, Genesis 9:3, Genesis 30:37, Exodus 10:15, Leviticus 2:14, Leviticus 23:14, Deuteronomy 12:2, Judges 16:7, Judges 16:8, 1 Kings 14:23, 2 Kings 16:4, 2 Kings 17:10, 2 Kings 19:26, 2 Chronicles 28:4, Esther 1:6, Job 8:16, Job 15:32, Job 39:8, Psalms 23:2, Psalms 37:2, Psalms 37:35, Psalms 52:8, Song of Solomon 1:16, Song of Solomon 2:13, Isaiah 15:6, Isaiah 37:27, Isaiah 57:5, Jeremiah 2:20, Jeremiah 3:6, Jeremiah 3:13, Jeremiah 11:16, Jeremiah 17:2, Jeremiah 17:8, Ezekiel 6:13, Ezekiel 17:24, Ezekiel 20:47, Hosea 14:8, Mark 6:39, Luke 23:31, Revelation 8:7, Revelation 9:4					
+23	2015-11-23 11:19:00.000	Worship	Pray	Jabez	1 Chronicles 4:10					
+24	2015-11-23 12:57:00.000	Worship	Walk	Jehoshaphat	2 Chronicles 17:3, 2 Chronicles 17:4					
+25	2015-12-02 00:00:00.000	Angel	Deceiver	Devil	Matthew 4:11, Matthew 13:39, Matthew 25:41, Jude 1:9, Revelation 12:9					1000
+26	2015-12-02 00:00:00.000	Angel	Military	Michael	Jude 1:9, Revelation 12:7					1000
+27	2015-12-02 00:00:00.000	Angel	Messianic	Gabriel	Luke 1:19, Luke 1:26					1000
+28	2016-02-16 15:15:26.700	Associable	Water	God	Genesis 1:2					
+29	2016-02-16 15:16:40.237	Associable	Water	Noah	Genesis 6:14-9:29			Equally, associable world.		
+30	2016-02-16 15:19:18.713	Associable	Water	Moses	Exodus 2:10			Whose, I live?		
+31	2016-04-04 16:52:13.120	Twelve stars	Ten kings	Antichrist	Revelation 17:12					
+32	2016-04-04 16:53:42.820	Twelve stars	Sun, moon, eleven stars	Joseph	Genesis 37:9					
+33	2016-04-04 16:56:42.433	Twelve stars	Sun, moon, twelve stars	Jesus Christ	Revelation 12:1					
+34	2016-04-20 15:48:19.970	Tribulation	Seven years	Elisha	2 Kings 3:7					
+35	2016-05-04 17:31:50.397	To be in God's hand	Speech	David	2 Samuel 24:14					
+36	2017-02-11 21:02:35.543	Who I am, is where I am made of?	Ground	Adam	Genesis 2:5, Genesis 2:6, Genesis 2:7, Genesis 2:9, Genesis 2:19, Genesis 3:17, Genesis 3:19, Genesis 3:23, Genesis 6:3					
+37	2017-02-11 21:07:03.363	Who I am, is where I am made of?	Man	Eve	Genesis 2:22, Genesis 2:23, Genesis 3:1, Genesis 3:2, Genesis 3:4, Genesis 3:6, Genesis 3:12, Genesis 3:13, Genesis 3:15, Genesis 3:16,					
+38	2017-02-11 21:33:36.490	Who I am, is where I am made of?	Come from the Father	Jesus Christ	John 13:3, John 15:26, John 16:28,					
+39	2017-03-06 07:28:38.987	Twelve stars	Creation	God	Genesis 1:16					
+40	2017-03-13 20:26:56.657	Words diversity	Choose can in date?	Candace	Acts 8:27					
+41	2017-03-13 20:26:56.657	Words diversity	I must abandon myself.	Abaddon	Revelation 9:11					
+42	2017-03-30 09:27:23.513	TeachingInTheBible	To be one kind.	Jesus Christ						
+43	2017-04-19 18:45:04.760	TeachingInTheBible	Where I made known of life; is where I made known, the necessity of living.	God	Genesis 2:7, John 6:51					
+44	2017-04-28 16:21:02.103	TeachingInTheBible	You don't get word by exchanging idea; you get word by manifesting fact.	Jesus Christ	Luke 11:1, 2 Corinthians 3:15			One indifference, is accountable. A hope to be relevant. Overhead bridge walking on Paseo Padre Parkway, north, between Siward and Blackstone Way, Hyundai truck, wave; Costco van, urine. What is accountable to Him? You don't get word by exchanging idea; you get word by manifesting fact. Rosary. Mixed children, the subject of His affection.		
+45	2017-05-13 22:25:23.597	Parts of Speech	Noun markers					a, an, the	csi.edu/ip/adc/faculty/bbennett/ps011exp.htm	
+46	2017-05-13 22:27:53.767	Parts of Speech	Linking berbs					be, am, is, are, was, were, been, being	csi.edu/ip/adc/faculty/bbennett/ps011exp.htm	
+47	2017-05-13 22:30:28.020	Parts of Speech	Complete verbs					can, could, will, would, shall, should, may, might, must, have, has, had, do, does, did,be, am, is, are, was, were, been, being	csi.edu/ip/adc/faculty/bbennett/ps011exp.htm	
+48	2017-05-13 22:35:22.607	Parts of Speech	Pronouns					I, he, we, she, they, me, him, us, her, them, it, this, that, who, which, what	csi.edu/ip/adc/faculty/bbennett/ps011exp.htm	
+49	2017-05-13 22:36:55.700	Parts of Speech	Possessive pronouns					my, mine, his, her, hers, our, ours, their, theirs, your, yours, its, whose	csi.edu/ip/adc/faculty/bbennett/ps011exp.htm	
+50	2017-05-13 22:38:39.567	Parts of Speech	Prepositions					at, to, with, from, for, of, on, in, into, onto,between, under, over, against, around	csi.edu/ip/adc/faculty/bbennett/ps011exp.htm	
+51	2017-05-13 22:40:17.780	Parts of Speech	Conjunctions					for, and, nor, but, or, yet, so, because, when, while, as, since, although, whenever	csi.edu/ip/adc/faculty/bbennett/ps011exp.htm	
+52	2017-05-13 22:42:05.273	Parts of Speech	Adverbs					not, very, often, here, almost, always, never, there, too	csi.edu/ip/adc/faculty/bbennett/ps011exp.htm	
+53	2017-05-13 22:43:56.230	Parts of Speech	Interjections					Oh, ouch, yes, no	csi.edu/ip/adc/faculty/bbennett/ps011exp.htm	
+56	2017-07-09 13:25:14.647	Full position	Holy Spirit	Jesus Christ	Luke 4:1, Luke 5:12, Acts 7:55					
+57	2017-07-09 13:39:47.733	Full position	spirit of wisdom	Joshua	Deuteronomy 34:9					
+58	2017-07-17 17:59:11.643	One chance; seem the rest.	Our LORD's Prayer	Jesus Christ	Matthew 6:9-13, Luke 11:2-4, John 6			Our LORD's prayer is a communal prayer; directed to the one God ( Matthew 6:9-13, Luke 11:2-4 ). Please note that it is Jesus; teaching this prayer; so He doesn't refer to Himself or the Holy Spirit explicitly; as in another passage, He mentions Himself as the bread ( John 6 ). He explains the truth; that we may fall short of it, by explicitly referring to the Father. He is alluding to the event in the Apocalyptical books, Daniel and Revelation. We are on earth, and we have an earthly father; where we are, is not where, we wish and will to be ( Matthew 6:9, Luke 11:2, Daniel 2, Revelation 5 ). 		
+59	2017-07-28 16:44:40.950	The land, I place; my life on? Land life.	Land	Israel				Land versus water		8724
+60	2017-07-28 16:45:41.583	The land, I place; my life on? Land life.	Jew					Gentile versus Judah		8724
+61	2017-07-28 16:48:28.627	The land, I place; my life on? Land life.	Seed of Abraham					Promised seed versus the son of the bond woman. Inherited.		8724
+62	2017-08-05 20:43:38.600	Apostle	First, Simon, who is called Peter		Matthew 10:2, Luke 6:14					
+63	2017-08-05 20:45:47.433	Apostle	Andrew, Peter's brother		Matthew 10:2, Luke 6:14					
+64	2017-08-05 20:47:38.690	Apostle	James the son of Zebedee		Matthew 10:2, Luke 6:14					
+65	2017-08-05 20:50:09.717	Apostle	John the son of Zebedee		Matthew 10:2, Luke 6:14					
+66	2017-08-05 20:52:07.983	Apostle	Philip		Matthew 10:3, Luke 6:14					
+67	2017-08-05 20:53:27.440	Apostle	Bartholomew		Matthew 10:3, Luke 6:14					
+68	2017-08-05 20:54:03.997	Apostle	Thomas		Matthew 10:3, Luke 6:15					
+69	2017-08-05 20:54:39.940	Apostle	Matthew the publican		Matthew 10:3, Luke 6:15					
+70	2017-08-05 20:55:21.277	Apostle	James the son of Alphaeus		Matthew 10:3, Luke 6:15					
+71	2017-08-05 20:56:15.793	Apostle	Lebbaeus, whose surname was Thaddaeus		Matthew 10:3					
+72	2017-08-05 21:02:47.140	Apostle	Simon the Canaanite called Zelotes		Matthew 10:4, Luke 6:15					
+73	2017-08-05 21:03:35.753	Apostle	Judas Iscariot, who also betrayed him		Matthew 10:4, Luke 6:16					
+74	2017-08-07 19:01:06.280	Question	Fall of Man	Adam	Genesis 3:1, Genesis 3:9			Where are you hidden? An obligatory; anonymous?		
+75	2017-08-07 19:03:46.263	Question	Cain and Abel	Cain	Genesis 4:6-7, Genesis 4:9-10			Where is your brother? When end meet; these are the same? When we search for you and I; that is I and you, finding each other?		
+76	2017-08-07 19:15:00.460	Question	Theophany	Hagar	Genesis 16:8			Where are you coming from, and where are you going?		1000
+77	2017-08-07 19:39:30.930	Question	Promised Son	Isaac	Genesis 18:13-14			Sarah's age is not an handicap to her, not having a son.		
+78	2017-08-21 14:44:15.950	Firmer consequence	Jerusalem	Jeremiah	Jeremiah 25:11, Jeremiah 25:12, Jeremiah 29:10, Daniel 9:2, Zechariah 7:5				foxnews.com/science/2017/08/23/ancient-inscription-unearthed-in-jerusalem-thrilling-archaeologists.html	
+79	2017-08-21 15:51:08.607	Firmer consequence	Babylon	Nebuchadnezzar king of Babylon	Daniel 1:1					
+80	2017-08-21 15:53:48.933	Firmer consequence	Babylon	Belshazzar the king	Daniel 5:1					
+81	2017-08-21 15:55:45.007	Firmer consequence	Persia	Darius the Median	Daniel 5:31					
+82	2017-08-21 16:02:48.993	Firmer consequence	Persia	Cyrus	2 Chronicles 36:22, 2 Chronicles 36:23, Ezra 1:1, Ezra 1:2, Ezra 1:7, Ezra 1:8, Ezra 3:7, Ezra 4:3, Ezra 4:5, Ezra 5:13, Ezra 5:14, Ezra 5:17, Ezra 6:3, Ezra 6:14, Isaiah 44:28, Isaiah 45:1, Daniel 1:21, Daniel 6:28, Daniel 10:1					
+83	2017-08-22 21:17:34.433	Firmer consequence	Babylon	Daniel - A great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.	Daniel 2:48					
+84	2017-08-22 21:27:51.873	Firmer consequence	Babylon	Daniel - Third ruler in the kingdom	Daniel 5:29					
+85	2017-08-22 21:42:47.003	Firmer consequence	Persia	Artaxerxes king of Persia	Ezra 7:1					
+86	2017-08-22 21:49:38.100	Firmer consequence	Persia	Ezra the priest, the scribe	Ezra 7:6, Ezra 7:11-12					
+87	2017-08-22 22:03:01.520	Firmer consequence	Persia	Nehemiah - king's cupbearer	Nehemiah 1:11					
+88	2017-09-07 20:25:25.057	Design Pattern	Singleton	God	Malachi 2:10, Matthew 28:19-20					
+89	2017-09-11 20:32:26.280	Design Pattern	Abstract factory	Holy Spirit	1 Corinthians 12:13			All our body, come into one.	en.wikipedia.org/wiki/Abstract_factory_pattern	
+90	2017-09-11 21:35:15.590	Design Pattern	Builder	Jesus Christ	Acts 10:45-48, Romans 9			Circumcision and baptism are possible steps taken, to become a Christian.		
+91	2017-09-16 21:17:10.913	Artificial Intelligence	Neural Networks					Relating to person. Our relating to person. Relational database - soundex, like.		
+92	2017-09-17 21:06:04.203	The pilgrim; are memory of our forever.	Call animal	Adam	Genesis 2:19-20					
+93	2017-09-17 21:22:49.977	The pilgrim; are memory of our forever.	Ask what I shall give thee.	Solomon	1 Kings 3:5-28, 2 Chronicles 1:7-17, 2 Samuel 24:11-14, 1 Chronicles 21:10-13			<input id="solomonRequest" placeholder="An understanding heart to judge thy people, that I may discern between good and bad" list="GodToSolomon"> <datalist id="GodToSolomon"><option>Long life</option><option>Riches</option><option>Life of thine enemies</option></datalist>		
+94	2017-09-17 00:00:00.000	The pilgrim; are memory of our forever.	I offer thee three things; choose thee one of them, that I may do it unto thee.	David	2 Samuel 24:11-14, 1 Chronicles 21:10-13			<input type="radio" name=" I offer thee three things; choose thee one of them, that I may do it unto thee."> Shall seven years of famine come unto thee in thy land? <input type="radio" name=" I offer thee three things; choose thee one of them, that I may do it unto thee."> or wilt thou flee three months before thine enemies, while they pursue thee? <input type="radio" name=" I offer thee three things; choose thee one of them, that I may do it unto thee."> or that there be three days' pestilence in thy land?		
+95	2017-09-19 20:00:00.000	One among the same.	Offering service of the tabernacle of the congregation	Moses	Numbers 7					8753
+96	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Nahshon the son of Amminadab, of the tribe of Judah	Numbers 7:12-17			On the first day		
+97	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Nethaneel the son of Zuar, prince of Issachar,	Numbers 7:18-23			On the second day		
+98	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Eliab the son of Helon, prince of the children of Zebulun	Numbers 7:24-29			On the third day		
+99	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Elizur the son of Shedeur, prince of the children of Reuben	Numbers 7:30-35			On the fourth day		
+100	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Shelumiel the son of Zurishaddai, prince of the children of Simeon	Numbers 7:36-41			On the fifth day		
+101	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Eliasaph the son of Deuel, prince of the children of Gad	Numbers 7:42-47			On the sixth day		
+102	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Elishama the son of Ammihud, prince of the children of Ephraim	Numbers 7:48-53			On the seventh day		
+103	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Gamaliel the son of Pedahzur, prince of the children of Manasseh	Numbers 7:54-59			On the eighth day		
+104	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Abidan the son of Gideoni, prince of the children of Benjamin	Numbers 7:60-65			On the ninth day		
+105	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Ahiezer the son of Ammishaddai, prince of the children of Dan	Numbers 7:66-71			On the tenth day		
+106	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Pagiel the son of Ocran, prince of the children of Asher	Numbers 7:72-77			On the eleventh day		
+107	2017-09-19 20:00:00.000	Service of the tabernacle of the congregation	Offering	Ahira the son of Enan, prince of the children of Naphtali	Numbers 7:78-83			On the twelfth day		
+108	2017-09-30 06:31:00.670	Example	Birth place					Bethlelem		
+109	2017-09-30 06:32:31.617	Example	Biological father	David						
+110	2017-09-30 06:33:21.197	Example	Forerunner	John the Baptist						
+111	2017-09-30 06:34:42.657	Example	Beloved Disciple	John						
+112	2017-09-30 06:37:04.540	Example	Sign	Jonah						
+113	2017-09-30 06:37:34.240	Example	Prophet	Daniel						
+114	2017-10-03 18:54:59.473	Playing at tense	Present, past, before, after, then		2 Samuel 11:1					
+115	2017-10-04 11:34:38.193	Association	My people	Israel						
+116	2017-10-04 11:35:13.210	Association	The Word	Jesus	John 1					
+117	2017-10-04 11:35:32.070	Association	The Son	Jesus						
+118	2017-10-04 11:35:59.957	Association	The Father	God						
+119	2017-10-05 18:04:18.623	Condition above	If							
+120	2017-10-05 18:04:47.283	Condition above	When							
+121	2017-10-05 18:04:59.380	Condition above	Therefore							
+122	2017-10-05 18:05:10.613	Condition above	Thereby							
+123	2017-10-10 16:47:15.287	Motivation in the Bible	Naming	Benitoluwa	2 Corinthians 1:20					1294
+124	2017-10-10 16:56:00.373	Motivation in the Bible	Naming	Tiara	Acts 16:14, Revelation 1:11, Revelation 2:18, Revelation 2:24					1365
+125	2017-10-12 06:29:12.940	Bible Book Group	Pentateuch					1, 2, 3, 4, 5		
+126	2017-10-12 06:30:09.403	Bible Book Group	Major Prophets					23, 24, 25, 26, 27		
+127	2017-10-12 06:31:06.570	Bible Book Group	Minor Prophets					28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39		
+128	2017-10-12 06:31:37.230	Bible Book Group	Gospel					40, 41, 42, 43		
+129	2017-10-12 06:32:05.730	Bible Book Group	Apocalyptic					27, 66		
+130	2017-10-12 07:30:32.927	Bible Book Group	Historical					6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17	mcgoodwin.net/pages/otherbooks/bible_historicalbooks.html	
+131	2017-10-12 07:36:01.683	Bible Book Group	Poetry & Wisdom					18, 19, 20, 21, 22		
+132	2017-10-12 07:38:45.920	Bible Book Group	Pauline Epistles					45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57	thisisyourbible.com/index.php?page=questions&task=show&mediaid=2752	
+133	2017-10-12 07:42:10.340	Bible Book Group	General Letters					58, 59, 60, 61, 62, 63, 64, 65	thisisyourbible.com/index.php?page=questions&task=show&mediaid=2752	
+134	2017-10-13 23:19:57.760	When open to guaranty?	Diversified of living.	Daniel	Daniel 1:1-4, Daniel 9:2, Daniel 12:13			Daniel is of the royal seed of Judah, and Daniel was brought to Babylon. To who our bearing; that is our favor. What set us apart; is separated, no more.		4841
+135	2017-10-15 23:57:14.027	Every period, I name?	In the Beginning		Genesis 1:1, John 1:1-2, Hebrews 1:10					4771
+136	2017-10-16 00:24:32.660	Every period, I name?	Sabbath of rest		Leviticus 25:4			And then, they gave the poor people, a final.		4771
+137	2017-10-16 00:29:48.020	Every period, I name?	Year of jubilee		Leviticus 25			And then, they gave the poor people, a final.		4771
+138	2017-11-12 11:44:57.433	I gather the moment of our tense.	Past, present, future	God	Exodus 3:14, Revelation 1:17, Revelation 1:11, Revelation 11:17					
+139	2015-06-03 00:00:00.000	Unit	Shekel		Genesis 23:15, Genesis 23:16, Genesis 24:22, Exodus 21:32, Exodus 30:13, Exodus 30:15, Exodus 30:23, Exodus 30:24, Exodus 38:24, Exodus 38:25, Exodus 38:26, Exodus 38:28, Exodus 38:29, Leviticus 5:15, Leviticus 27:3, Leviticus 27:4, Leviticus 27:5, Leviticus 27:6, Leviticus 27:7, Leviticus 27:16, Leviticus 27:25, Numbers 3:47, Numbers 3:50, Numbers 7:13, Numbers 7:14, Numbers 7:19, Numbers 7:20, Numbers 7:25, Numbers 7:26, Numbers 7:31, Numbers 7:32, Numbers 7:37, Numbers 7:38, Numbers 7:43, Numbers 7:44, Numbers 7:49, Numbers 7:50, Numbers 7:55, Numbers 7:56, Numbers 7:61, Numbers 7:62, Numbers 7:67, Numbers 7:68, Numbers 7:73, Numbers 7:74, Numbers 7:79, Numbers 7:80, Numbers 7:85, Numbers 7:86, Numbers 18:16, Numbers 31:52, Deuteronomy 22:19, Deuteronomy 22:29, Joshua 7:21, Judges 8:26, Judges 17:2, Judges 17:3, Judges 17:4, Judges 17:10, 1 Samuel 9:8, 1 Samuel 17:5, 1 Samuel 17:7, 2 Samuel 14:26, 2 Samuel 18:11, 2 Samuel 18:12, 2 Samuel 21:16, 2 Samuel 24:24, 1 Kings 10:16, 1 Kings 10:29, 2 Kings 7:1, 2 Kings 7:16, 2 Kings 7:18, 2 Kings 15:20, 1 Chronicles 21:25, 2 Chronicles 1:17, 2 Chronicles 3:9, 2 Chronicles 9:15, 2 Chronicles 9:16, Nehemiah 5:15, Nehemiah 10:32, Jeremiah 32:9, Ezekiel 4:10, Ezekiel 45:12, Amos 8:5			Unit end. The word came in 2015-06-03, but I didn't create the table and make the first entry until 2015-06-20. 2015-06-27 Appraising God.		5208
+140	2015-06-20 22:49:04.090	Unit	Pieces of silver		Genesis 20:16, Genesis 37:28, Genesis 45:22, Joshua 24:32, Judges 9:4, Judges 16:5, 2 Kings 5:5, 2 Kings 6:25, Psalms 68:30, Song of Solomon 8:11, Daniel 2:35, Daniel 2:45, Hosea 3:2, Zechariah 11:12, Zechariah 11:13, Matthew 26:15, Matthew 27:3, Matthew 27:5, Matthew 27:6, Matthew 27:9, Luke 15:8, Acts 19:19					5208
+141	2017-11-18 09:53:27.997	Like many household, this I believe, is mine. 	Adam, the first man	Adam	Genesis 2:15-20			God created many variation of living things, but God created a single man.		
+142	2017-11-18 09:57:59.370	Like many household, this I believe, is mine. 	One flesh	Adam	Genesis 2:21-24			Adam and Eve, man and woman, taken out of him, his helper.		
+143	2017-11-18 10:13:39.050	Like many household, this I believe, is mine. 	Possession	Eve	Genesis 4:1-2			Eve's offspring		
+144	2017-11-18 10:46:08.203	Like many household, this I believe, is mine. 	Abraham's house	Abraham	Genesis 17:23, Genesis 18:19, Genesis 20:18, Genesis 24:2, Genesis 24:27, Isaiah 29:22, Luke 19:9					
+145	2017-11-18 10:49:38.090	Like many household, this I believe, is mine. 	Israel's household	Israel	Exodus 1:1, Leviticus 16:17, Deuteronomy 11:6, Joshua 6:25, 2 Samuel 6:20, 2 Samuel 19:41, 1 Kings 4:7					
+146	2016-10-07 01:01:00.000	TeachingInTheBible	Prayer					There is operation, or method; pray to God, pray for us. A prophet may also, utter a prophecy; share word from God. What are the types of prayers? What are the groups of prayers? There may be, one individual, prayer; or a group of praying. Prayer, is it a action? Is it, a person? I thought of representing the Bible; dictionary of concordance? In response to Daniel 9, when you returned to Nigeria, as a twenty year old, you wrote Kowe, a text editor, for representing the Yoruba language, and translator. When you say the English word, prayer, you may be referring to the prayee. In Nigeria, you met, Fola Adeola''s wife, a university English, instructor. How do we use the computer, to manage the Bible? You could into commentary; but you are not knowledge, or sufficiently literate about the Bible; it is in, other people''s word, writers the original contributors, and translators. So when you write a commentary; do you commentate on each verse, or group of verses, that are related, and share a common thread, grouped together. Our beginning, of idea. When you begin, to represent, your Bible, you must be interested with the author, and familiar with the reader. Going back to prayer, or do you represent this gramatically. When you may also choose to computerize this. To know, my own. When, I say a word, I know the meaning, but there are conflicts, in our ideas, but we can all agres on prayer. It is a request, to God. When you utter a prophecy, you are sharing, God''s message. Who is the sender, who is the provider? With word from God, this is a message to you; and normally, it is a warning. How, am I, major, of my supplier? My biological mother, told to pray; as well, this is advice from my uncle, but more exact, family friend, Ojutalayo. Our specialization, of our need; what ever, we are going, sharing it, with God. There may be a format for praying; for example, the LORD''s prayer. Where we utter a message. With Toyin Oyeduntan, we are praying, for our along. I slept better, after first prayer; but after our second, he enlightened about Pauline Beshay, a woman, I had dated for three years; but he received a message, about spirituality, and bodily form, use as a merchandise. Our plurality, her sexual, and there are long term consequence. With, Wale Soyinka, my paternal cousin, I told him, that we are hearing, a learning, meeting with immigration; and he said, we should for the outcome, and I said, there is no need. The limited, of our engagement. I prayed with a German, Lutheran, who was engage with Africa; as much as I mean to you; this is through, through you. I have relationship, but where, am I, involve with God. Realization of my people. To who I go; there is where, I met. When, is for a usual update; one is for a special, informance. Where I see you; there is where, I live, in you. How, I realize, my dream; through You. One''s expectation, is my guidance. Could we, contribute, to a final time. What, am I, knowing; about my passage? Two, make a life, one completed, is the final. What am I, doing, today; to accomplish God? Who, I choose, in heaven; is who, I believe, in men. Learning, through Him. One half, is me; for a entire you. Making one; of myself. The fulfillment, of my time. A part of me; for the rest. All of you; is most of Me. Total of all; is nothing of all. One, submitted himself, to a normal time; in full of the future. One of me; is meeting, the rest, of You. To the submitted, of a final you. Most of me, is for forever; except with you. Our caring for our children; is extended. Only our failure; is our analysis. The challenge for the future; is representing, today. A life, at full season. What are my Christian aim; there is my objective. Reading a personalization, of my view. For a full, of my lifetime; that is my future. For the substancy of my time. For our later half; this is your full half. My deeming, of my need. For the first, of my opinion. Ever present you.		
+147	2018-01-12 20:56:02.023	TeachingInTheBible	I will like you to know, the cousin bell.	Esau	Genesis 28:9			I checked the first room, there was nothing; in the second room, I found Dotun. The compatible of the difference. To each role, another. Each according to series.		1374
+148	2018-02-12 12:53:04.757	When has He use metrics? When is None; the Sum of All?	Light	God	Genesis 1:16, Ezekiel 43:14			Greater lesser	maerskline.com	7442
+149	2018-02-12 13:03:52.243	When has He use metrics? When is None; the Sum of All?	Time	God				Before after	maerskline.com	7442
+150	2018-02-12 13:11:00.480	When has He use metrics? When is None; the Sum of All?	Seed	Jesus Christ	Matthew 13:31-32			Grain of mustard seed	maerskline.com	7442
+151	2018-02-12 13:19:21.940	When has He use metrics? When is None; the Sum of All?	Commandment	Jesus Christ	Matthew 22:36-40, Mark 12:28-33			First and great, second	maerskline.com	7442
+152	2018-02-12 23:29:14.843	Change? Heaven is left to me.	Covenant	God				Noahic (Genesis 6:18, Genesis 9:9-17). Bible read and study? 2018-02-21 The further of man. Appreciating; the further of man. 2018-02-25 To make a date as; sufficient tomorrow.		
+153	2018-02-12 23:32:43.573	Change? Heaven is left to me.	Life span	God				120 (Genesis 6:3), 70 (Psalms 90:10).		
+154	2018-02-12 23:40:52.680	Change? Heaven is left to me.	Name	God				From Abram to Abraham (Genesis 17:5), Sarai to Sarah (Genesis 17:15).		
+155	2018-02-12 23:45:05.057	Change? Heaven is left to me.	Kingdom	God	Daniel 2					
+156	2018-03-15 13:21:49.890	Time Span	Reign		1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles			That is where the period is. Like David. A happy living, is yielding to Him. When life opposite, are meant for advance. When one is indeed of an effort; one is worthy of a man. The constant challenge of making man as a means of Me. To direct through.		1400
+157	2018-03-19 11:14:48.243	Kingdom	Babylon	Nebuchadnezzar king of Babylon	2 Kings 24:1, 2 Kings 24:10, 2 Kings 24:11, 2 Kings 25:1, 2 Kings 25:8, 2 Kings 25:22, 2 Chronicles 36:6, Jeremiah 27:20, Jeremiah 28:3, Jeremiah 28:11, Jeremiah 28:14, Jeremiah 29:3, Jeremiah 34:1, Jeremiah 39:5, Daniel 1:1					
+158	2018-03-19 11:22:07.383	Kingdom	Persia	Cyrus, and Darius, and Artaxerxes king of Persia	2 Chronicles 36:22, 2 Chronicles 36:23, Ezra 1:1, Ezra 1:2, Ezra 1:8, Ezra 3:7, Ezra 4:3, Ezra 4:5, Ezra 4:7, Ezra 4:24, Ezra 6:14, Ezra 7:1, Daniel 10:1					
+159	2018-03-19 11:26:45.953	Kingdom	Persia	Mithredath the treasurer	Ezra 1:8					
+160	2018-03-19 11:33:08.330	Kingdom	Babylon	Cuthah	2 Kings 17:24					
+161	2018-03-19 11:35:59.367	Kingdom	Babylon	Ava	2 Kings 17:24					
+162	2018-03-19 11:38:37.633	Kingdom	Babylon	Hamath	2 Kings 17:24					
+163	2018-03-19 11:40:42.440	Kingdom	Babylon	Sepharvaim	2 Kings 17:24					
+164	2018-03-19 11:48:33.160	Kingdom	Babylon	Arioch the captain of the king's guard	Daniel 2:14-15, Daniel 2:24-25					
+165	2018-03-19 11:55:54.177	Kingdom	Babylon	The princes, the governors, and the captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces	Daniel 3:2-3, Daniel 3:27					
+166	2018-03-19 13:50:46.193	Kingdom	Babylon	Astrologers, the Chaldeans, and the soothsayers	Daniel 5:7					
+167	2018-03-19 13:54:13.260	Kingdom	Babylon	King Belshazzar	Daniel 5:9, Daniel 8:1					
+168	2018-03-19 13:59:32.990	Kingdom	Persia	An hundred and twenty princes	Daniel 6:1					
+169	2018-03-19 14:00:53.750	Kingdom	Persia	Three presidents	Daniel 6:2					
+170	2018-03-19 14:11:01.133	Kingdom	Babylon	Lion	Daniel 7:4			Babylon		
+171	2018-03-19 14:12:58.520	Kingdom	Persia	Bear	Daniel 7:5					
+172	2018-03-19 14:14:42.450	Kingdom	Greece	Leopard	Daniel 7:6, Daniel 10:20					
+173	2018-03-19 14:20:20.597	Kingdom	Persia	Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai.	Daniel 8:2					
+174	2018-03-27 17:06:13.103	Increase Decrease	Increase					See when God grants increase; such as in creation, the day. Increase versus decrease were first explicitly mentioned during Noah's flood. These differences in magnitude is associate able with signs - the sun and the moon.		
+175	2018-04-01 21:39:33.900	Gospel of Matthew	Genealogy					My paternal grandfather is Ebenezer Omotosho Adeniji; and my biological father is Jimmy Adeniji; but I grew up with my paternal uncle, Jim Adeniji and his wife, my aunt-in-law, Ayodele Adeniji, nee Falua; who was born on 1945-12-01, and passed away on 1988-04-01. There are thirty years between 1988-04-01 and 2018-04-01.		
+176	2018-04-01 21:40:21.553	Gospel of Matthew	Date and Place of Birth					My twin sibling and I, were born on 1967-10-15, at Lagos Island Maternity Hospital. 10 Campbell Street, Lagos Island, Lagos State, Nigeria.		
+177	2018-04-01 21:41:06.323	Gospel of Matthew	Biological Parents Residence					My biological parents resided at 2 Shipeolu Street. Palm Groove, Lagos State, Nigeria. A place they rented from the Oyeniya family. 		
+178	2018-04-01 21:42:11.820	Gospel of Matthew	Nativity					I am a native of Ile-Ife, the Yoruba cradle; and I am a member of the Ilare royal family.		
+179	2018-04-01 21:43:12.037	Gospel of Matthew	Primary School					I attended Staff School, University of Ile-Ife. My three classmates that I recall are Wumi, a male friend, who also lived in my neighborhood, and we later travelled to school with; Bimbo, a female, who I once fought with; and Stephen, a foreigner.		
+180	2018-04-06 21:58:26.700	Messianic Prophecy	Out of Egypt, have I called, My Son.	Jesus Christ	Hosea 11:1, Matthew 2:15				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+181	2018-04-06 23:18:17.623	Prophecy tips	God's word	Daniel	Daniel 9:2, Daniel 9:10-14, Daniel 9:17, Daniel 9:20-27			Reminding Him of His word.		
+182	2018-04-07 21:30:14.360	Prophecy tips	To help on God's part.	Eve	Genesis 2:23					
+183	2018-04-08 21:06:23.797	Statement	Control	Adam	Genesis 2:17, Genesis 3:3, Genesis 3:4, Genesis 4:7			Our lesson, are our after. The first statement in the Bible were command statements; but with the tree of the knowledge of good and evil; it was a condition statement, an assertion. 2018-04-09T02:40:00 In database terminology, this is comparable, to a transaction rollback statement.		
+184	2018-04-10 16:32:08.813	Joseph and Daniel - Interpretation of Dreams	World	Joseph	Genesis 41:54, Daniel 2:44			Religious of none; is religious of no one. Man's preference for entire. When You look at a man; You see the complete in You. Making the same, at least. 2018-05-10 2018-05-10 Interpreting of language. 2018-05-10 Phoo. To the turn of affection. Phoo. Awen's father. Kim's husband. Mahdu's neighbor. The design of choice. God created herbivores, carnivores, and then man.		
+185	2018-04-11 13:44:49.020	Joseph and Daniel - Interpretation of Dreams	Life	Joseph	Genesis 41:2-7, Daniel 2:32-33, Daniel 2:38					
+186	2018-04-11 14:01:30.283	Joseph and Daniel - Interpretation of Dreams	Metrics	Joseph	Genesis 30:24, Genesis 35:18, Genesis 35:24, Genesis 37:9, Genesis 40:1, Genesis 40:2, Genesis 40:5, Genesis 41:1-7, Genesis 41:43, Genesis 41:45, Genesis 41:50-52			Two.		
+187	2018-04-11 14:18:05.130	Joseph and Daniel - Interpretation of Dreams	Metrics	Daniel	Daniel 1:6-7, Daniel 1:17, Daniel 1:19, Daniel 2:32-45, Daniel 2:49, Daniel 3:25			Four.		
+188	2018-03-02 17:54:31.383	Terminology	Akedah					Typology of Easter	khouse.org/articles/2008/758	1000
+189	2018-03-02 18:07:00.617	Terminology	Christian Church						en.wikipedia.org/wiki/Christian_Church	
+190	2018-03-02 16:42:23.657	Terminology	Doctrine of Imminency? imminent					There are no more prophecies that have to be fulfilled, prior to Christ coming back.	khouse.org/articles/2002/444	1000
+191	2018-03-02 17:25:38.077	Terminology	Epiphany		John 1:33-34			Epiphany, which means "to manifest" or "to show" in Greek, is often also called Theophany by the Eastern Church, because it is Christ's presentation to the world as the Son of God.	khouse.org/enews_article/2013/2030	1000
+192	2018-03-02 16:58:03.957	Terminology	Eschatology					The study of last things.	khouse.org/articles/2002/444	1000
+193	2018-03-02 17:00:40.280	Terminology	Rapture		1 Thessalonians 4:13-18			Great snatch	khouse.org/articles/2002/444	1000
+194	2018-04-07 23:21:00.000	Terminology	The Great Commission		Matthew 28:18-20			go and make disciples of all nations. 2019-09-26 The omission of commission. Robots and man. Intelligent Divide.	barna.com/research/half-churchgoers-not-heard-great-commission	
+195	2012-10-20 00:00:00.000	Terminology	Theophany	Hagar	Genesis 16:11			Theophany, (theophaneia, meaning "appearance of God"), refers to the appearance of a deity to a human or other being (Genesis 16:11). 		1000
+196	2018-04-18 21:51:20.147	Joseph and Daniel - Interpretation of Dreams	Wind	Daniel	Daniel 2:35					
+197	2018-04-18 21:53:38.617	Joseph and Daniel - Interpretation of Dreams	Wind	Joseph	Genesis 41:6					
+198	2018-04-24 09:11:40.020	Transfer of Power.	Lineage	David	1 Kings 1:10-53					
+199	2018-04-24 09:19:16.577	Transfer of Power	Kingdom		Daniel 2, Daniel 5					
+200	2018-04-26 17:52:36.037	Scriptural References to the 70th Week of Daniel	Pharaoh's Dream	Joseph	Genesis 41					1000
+201	2018-05-06 19:29:06.840	Prophecy tips	Henceforth, we are together, no more		Genesis 13:11					
+202	2018-05-08 19:04:28.203	Differences people ... are they beyond wonder?	Man woman	Eve						
+203	2018-05-08 19:04:55.653	Differences people ... are they beyond wonder?	Seed of the woman	Jesus Christ						
+204	2018-05-08 19:06:28.110	Differences people ... are they beyond wonder?	Sacrifice	Abel						
+205	2018-05-08 19:06:49.427	Differences people ... are they beyond wonder?	Trade							
+206	2018-05-08 19:10:46.133	Differences people ... are they beyond wonder?	Father of the ...							
+207	2018-05-09 15:43:30.770	Title of the head?	Egypt	Pharoah				2018-05-10 Exodus 1:8.		
+208	2018-05-09 15:47:34.687	Title of the head?	Heaven	Host				When I remove, My last cover; that is when, I seem, My own.		
+209	2018-05-09 21:25:49.803	E-mail	I read the book, Transact-SQL Cookbook, authored by Ales Spetic and Jonathan Gennick.					On Thu, May 3, 2018 at 9:01 PM, Ken Adeniji <kenadeniji@hotmail.com> wrote:
+
+    2018-05-03
+
+    I read the book, Transact-SQL Cookbook, authored by Ales Spetic and Jonathan Gennick. I initially implemented the first chapter, Pivot table, using Javascriopt Transact-SQLCookbookByAlesSpetic_JonathanGennick_-_PivotTable.html. but that would be defeating the aim of having an SQL implementation, backend, so I later developed an AJAX equilvalent TransactSQLCookbookByAlesSpetic_JonathanGennick_-_PivotTable.html. It consists of three main files; .html, .asmx, and .cs.
+
+    Working hand in hand, we can exchange each other. Not in sufficient use; is captivating the mind. An upward man; is a usual trend. Little matter; as recent. Each in approval of himself.
+ 
+Thank you for your kind words Ken. We are glad you are enjoying the book.
+
+It is an old book. Do keep in mind that newer releases of SQL Server might implement for you some of what the book describes. 
+
+Jonathan Gennick
+[Latest Post] Outside the Comfort Zone
+[Motto] Brighten the corner--where you are! http://select.ioug.org/p/bl/et/blogid=6&blogaid=872	jonathan@gennick.com	
+210	2018-05-10 07:04:13.313	Title of the head?	Temple	High priest				2018-05-10 The world, I live.		
+211	2018-05-09 00:00:00.000	Re-locate	Australia		Luke 1:44			2018-05-10 09:09:28.507 When I found home; this is me, realizing my dream.		
+212	2018-05-09 00:00:00.000	Paraphrase	Mashiach Nagid - Messiah the king	Jesus Christ				2018-05-10 10:51:11.083 First spoken of king Saul.		1000
+213	2018-05-09 00:00:00.000	Paraphrase	They know, how to to go there.					2018-05-10 10:54:36.060 Searching for a full tomorrow, today. 		3061
+214	2018-05-09 00:00:00.000	Paraphrase	The Marriage of Redemption	Ruth				2018-05-10 11:09:20.423 To a helper present.		1000
+215	2018-05-10 17:42:47.440	Paraphrase	This is the man, I love.							467
+216	2018-05-10 18:37:33.723	Paraphrase	Racism is bad; anti-semitism worse of all.					One to a differentiation. Equally a decider.		1000
+217	2018-05-10 22:30:34.120	Paraphrase	Always start the day, with a prayer.					Ravi Zacharias		133
+218	2018-05-10 23:05:02.027	Paraphrase	By writing history in advance.							1000
+219	2018-05-12 17:38:57.790	Twins	Appearance		Genesis 25:27			One is a opposite God. 2018-05-13 There are no example of two. My similar alike; is My joining possible?		
+220	2018-05-12 22:01:24.873	Paraphrase	Oni igba to Olorun wa; ireti wa.					Every answer; He made.		1307
+221	2018-05-12 22:06:43.153	The financial stock market has made a concerted effort to keep the British pound from rising beyond forty five percent 45%	The mission of accomplishing home.					Chuck Missler once said that his grandparents sold real estate. Barack Obama guided against Brexit; Germans, Angela Merkel, consider him a friend of Germany.		
+222	2018-05-12 22:35:07.227	Son	Son versus Descent	Jesus Christ	Hebrews 7:3, Hebrews 7:3			A exact of our self. I will feel, a completed use (Genesis 37:3). Could we trace the line? According to the successor? (Hebrews 7:3). Luke 1:32		
+223	2018-05-13 00:23:27.823	Fourteen lights, years, children, and generations	Helping extend; the presence of time.	Joseph	Genesis 37:9, Genesis 41, Matthew 1:17, Genesis 48:5			2019-09-01 01:08:18.8100000 With showing of partnership; that is the trust. Choosing where I will later, re-purpose myself. The quick entrance of course. 2019-09-01T01:22:00 Take medication. With what is impossible; is how He made man. With complete update of our future.		
+224	2018-05-14 15:03:22.730	Title of the head?	What I am wandering, is where my head last?							
+225	2018-05-14 15:06:43.110	AlphabetSequence	I am wandering, where my guessing rest?		Deuteronomy 18:20, Deuteronomy 18:22			ASCII code, English letters. Support for Unicode? Attrition. Relevancy to the Bible?		
+226	2018-05-14 15:16:55.450	Design by Contract (DbC)	Easy recommend of age.		Ecclesiastes 7:1			Pre-condition: (Date of Birth and (Date of Death or today's date))		
+227	2018-05-16 07:01:54.457	Anthem	Hatikvah		Genesis 22:8			To one express, his need. Add veil one. No one separated, are silent.	en.wikipedia.org/wiki/Hatikvah	
+228	2018-05-22 17:28:19.940	Timing of God	Pre-condition	Israel	Hosea 5:15					
+229	2018-05-22 17:31:02.830	Timing of God	Delay		Genesis 15:13			Part of sacredness, is to abide with time.		
+230	2018-05-24 17:57:45.037	Relationship changes	From sister to wife	Abraham	Genesis 20:12, Genesis 32:28					
+231	2018-05-24 18:21:26.627	Associated age	circumcised	Abraham	Genesis 17:24-26, Genesis 17:12					
+232	2018-05-24 21:58:04.360	Design by Contract	Jericho	Joshua	Joshua 6					
+233	2018-05-24 22:06:02.527	Design by Contract	Hebron	Caleb	Numbers 13:6, Numbers 13:30, Numbers 14:6, Numbers 14:24, Numbers 14:30, Numbers 14:38, Numbers 26:65, Numbers 32:12, Numbers 34:19, Deuteronomy 1:36, Joshua 14:6, Joshua 14:13, Joshua 14:14, Joshua 15:13, Joshua 15:14, Joshua 15:16, Joshua 15:17, Joshua 15:18, Joshua 21:12, Judges 1:12, Judges 1:13, Judges 1:14, Judges 1:15, Judges 1:20, Judges 3:9, 1 Samuel 25:3, 1 Samuel 30:14, 1 Chronicles 2:18, 1 Chronicles 2:19, 1 Chronicles 2:24, 1 Chronicles 2:42, 1 Chronicles 2:46, 1 Chronicles 2:48, 1 Chronicles 2:49, 1 Chronicles 2:50, 1 Chronicles 4:15, 1 Chronicles 6:56					
+234	2018-05-30 15:28:58.763	Godly emotions	Jesus wept	Jesus	John 11:35					
+235	2018-05-30 15:32:37.950	Godly emotions	Grieved	God	Genesis 6:6					
+236	2018-05-30 15:34:45.837	Godly emotions	Hate	God	Revelation 2:6					
+237	2018-05-30 15:35:47.543	Godly emotions	Compassion	God	2 Kings 13:23					
+238	2018-06-02 05:44:37.497	The kind, I will do; is where, I will rest.	Field of Machpelah 	Sarah	Genesis 23:19			At the bottom of a user interface, are two columns with right aligned numbers; Bob Joss questioned why they are not aligned with the previous columns, and I said, probably because they are numeric columns. I understood, my opinion was sought, once I said this word, Bob Joss rolled in front of me, and I could see, his trouser and belt, with my fixation on his loose trouser at the waist.		774
+239	2018-06-08 11:20:50.900	Vocation	Creator	God	Genesis 1:1					
+240	2018-06-08 11:22:32.383	Vocation	Garden of Eden to dress it and to keep it.	Adam	Genesis 2:15			Adam kept the Garden of Eden.		
+241	2018-06-08 11:24:35.723	Vocation	Keeper of sheep	Abel	Genesis 4:2					
+242	2018-06-08 11:25:28.083	Vocation	Tiller of the ground	Cain	Genesis 4:2					
+243	2018-06-08 11:27:54.910	Vocation	Builded a city	Cain	Genesis 4:17			Cain built the city of Enoch.		
+244	2018-06-08 11:33:46.493	Vocation	Father of such as dwell in tents, and of such as have cattle.	Jabal	Genesis 4:20			Dwell in tents.		
+245	2018-06-08 11:35:04.500	Vocation	Father of all such as handle the harp and organ.	Jubal	Genesis 4:21					
+246	2018-06-08 11:36:55.050	Vocation	Instructer of every artificer in brass and iron	Tubalcain	Genesis 4:22					
+247	2018-06-08 11:42:50.460	Naming	Named at creation	Adam	Genesis 2:19					
+248	2018-06-08 11:50:18.440	Naming	Named by man	Eve	Genesis 2:23					
+249	2018-06-08 16:31:23.790	Naming	Named by wife	Cain	Genesis 4:1					
+250	2018-06-08 16:33:03.097	Naming	Name prophesied by God	Emmanuel	Matthew 1:23					
+251	2018-06-08 16:37:39.880	Naming	Name changed	Abraham	Genesis 17:5					
+252	2018-06-08 16:39:25.743	Naming	Name announced	Jehovah	Exodus 6:3					
+253	2018-06-08 16:49:41.500	Naming	Name affirmed	John	Luke 1:13, Luke 1:59-63					
+254	2018-06-13 19:30:31.773	Noticing where He gains.	Man	Adam	Genesis 1:26					8824
+255	2018-06-13 19:35:06.937	Noticing where He gains.	Believe	Paul	Acts 26:29					8824
+256	2018-06-13 19:47:01.587	Noticing where He gains.	One	Jesus Christ	John 17:21-22					
+257	2018-06-19 16:31:33.493	Metrics in the Bible	Parable of the Talent	Jesus Christ	Matthew 25:14-30			All My given, are up-to you.		24
+258	2018-06-19 18:13:17.850	Set	River		Genesis 2:11-14, Genesis 2:19-20					
+259	2018-06-19 18:13:33.823	Set	Man	Adam	Genesis 2:7, Genesis 2:18-25			Maturity, growth		
+260	2018-06-21 11:30:08.917	Joseph and Daniel - Interpretation of Dreams	Our dictate are past.		Genesis 41, Daniel 2					
+261	2018-06-21 17:29:32.867	Resume	R Language Bible books						http://e-comfort.ephraimtech.com/WordEngineering/SQLServer/RLanguage/BibleBookInfo.html	
+262	2018-06-21 18:19:25.410	Resume	Soundex						http://e-comfort.ephraimtech.com/WordEngineering/WordUnion/TheTripAmong.html	
+263	2018-06-21 20:40:04.407	Prophecy tips	God places something on your mind, and then He elaborates, later.							
+264	2018-06-23 19:11:50.910	Network Command	ipconfig					Check the assignment of the IP address(es)?	patrick.net	
+265	2018-06-23 19:12:38.230	Network Command	tracert www.example.com					Trace the route to the destination?	en.wikipedia.org/wiki/Traceroute	
+266	2018-06-23 19:26:16.400	Network Command	ping www.example.com					Test if a host is reachable?	en.wikipedia.org/wiki/Ping_(networking_utility)	
+267	2018-06-23 19:59:31.157	Resume	Statistics						http://e-comfort.ephraimtech.com/WordEngineering/JavaScript/Algorithm/jStat.html	
+268	1996-02-14 00:00:00.000	Commandment	Greatest		Matthew 22:36-40, Mark 12:28-33			Do you not believe, I will provide your need?		774
+269	1998-05-08 00:00:00.000	Commandment	Second		Matthew 22:36-40, Mark 12:28-33			Non-repudication. Out of Egypt, have I called My son.		467
+270	2018-06-28 22:44:55.833	Times of a Life	King of Judah	David	2 Samuel 5:4			Forty years. 2018-06-29 Needing an open hand. Because we are the same; that's why, I am dear to you. Scott and Alfredo.		179
+271	2018-06-28 22:47:09.017	Times of a Life	King of Judah and Israel	David	1 Kings 2:11			Thiry three years		179
+272	2018-07-03 04:22:54.923	Feast	Feast of Tabernacles, or Sukkot		Leveticus 23:40, Nehemiah 8:15			To end, a full date. Easton's: Date
+the fruit of a species of palm (q.v.), the Phoenix dactilifera. This was a common tree in Palestine (Joel 1:12; Neh. 8:15). Palm branches were carried by the Jews on festive occasions, and especially at the feast of Tabernacles (Leveticus 23:40, Nehemiah 8:15).		
+273	2018-07-02 18:15:22.787	Ministry continuation experiences	Replication	Moses				We have found that there are generally two models for ministry continuation experiences that we can draw from. The first is that of replication. This style of ministry transfer assumes that the method of ministry can and will be transferred from one person to another - just as Moses was followed by Joshua and Elijah was followed by Elisha. Our natural problem here is . there was only ONE Chuck Missler. The accountable are sum. Showing him, how I am finally conclduing. Which step, are clear? New Zealand versus USA? The remainder of our place, are absent.	khouse.org/articles/2017/1324	8820
+274	2018-07-02 18:18:28.253	Ministry continuation experiences	Reproduction	Jesus Christ				The second type of ministry continuation is that of reproduction. Here we see the model of producing disciples that then in turn create disciples, that then in turn create disciples, and so on. We believe this reproduction model of ministry continuation is the one Jesus Himself followed. In fact, the whole idea of the Body of Christ is manifested in diversity, and subsequent strength, within His Church today. To who Iive, I am. A reciprocate of places. I believe, the extension of place, is the remnant of place. With terms, at place. We looked at the place, we represent. The exact of growing up, is the assume of nature. The set for a possible end. How I live, my following. Choosing the same life; as I place Him. Anticipating the place, I desire. 2018-07-07 If you accumulate yourself; where are you depreciated? 2018-07-15 Everything of distance of me. Two elder male siblings were sitting down, facing East, one was bearded. Reminiscence Chuck Missler and Ron Matsen, biological father and father figure.	khouse.org/articles/2017/1324	8820
+275	2018-07-04 20:36:06.690	At the intersection of Fremont Boulevard and Paseo Padre Parkway. Fremont, California (CA) 94555	To each subsequent home.					Albertsons Lucky, Charter Square, European. 99 Ranch Market, Asian. Those I mean rate, I use more.		24
+276	2018-07-05 03:21:28.227	Joseph and Daniel - Interpretation of Dreams	The separation of time.							
+277	2018-07-05 22:38:14.350	A define of our association.	Between people, child bearing, gift	Eve	Genesis 4:1				khouse.org/articles/2017/1324	8820
+278	2018-07-05 22:43:10.917	A define of our association.	Role at location to people, duty to God		Genesis 14:18			2019-12-21 Saw Yolanta, Alfa, and a female and male couple standing in the garage.
+Fi di le. Keep the buttocks there.
+Felix Liberty. Lover boy.
+Angel, prince of the people.
+Helping Him communicate; at a better.
+To a pattern, design as intelligence.
+A liquid of my own.
+Offering the need.
+With life, I am worthless; with you, I am worthful.
+Specialization are manageable (Genesis 6:2-4). The difference between angels and men?	khouse.org/articles/2017/1324	8820
+279	2018-07-10 13:53:48.267	Sequence Diagram	The butler and the baker of the king of Egypt	Joseph	Genesis 40			0.0083333333333333		
+280	2018-07-10 13:56:52.453	Sequence Diagram	Pharaoh's dream	Joseph	Genesis 41			2		
+281	2018-07-10 13:58:49.550	Sequence Diagram	Seven years of plenty	Joseph	Genesis 41			7		
+282	2018-07-10 14:03:04.160	Sequence Diagram	Joseph reveal himself to his brothers	Joseph	Genesis 45:6			2		
+283	2018-07-10 14:06:33.163	Sequence Diagram	Five years after family reconcilliation	Joseph	Genesis 41:32			5		
+284	2018-07-10 18:08:59.463	Sequence Diagram	Egypt	Moses	Acts 7:23			40		
+285	2018-07-10 18:14:06.967	Sequence Diagram	Midian	Moses	Exodus 2:15, Exodus 7:7, Acts 7:30			40		
+286	2018-07-10 18:14:50.103	Sequence Diagram	Exodus	Moses	Deuteronomy 34:7			40		
+287	2018-07-20 16:28:27.613	Prophecy tips	Living a life through; is aspiring through. Making a kind, a resemblance.		Romans 8:26					
+288	2019-06-17 18:50:03.087	Excluded from the Gospel of John	Fig tree	Jesus Christ	Matthew 24:32-34, Mark 13:28-30, Luke 21:29-32			Relating to Him, as a valueless support of ourself. The time, I Am least to you; is when I support the world. A represent meaning; of our outer being. The love, we kept for each other; is the love, we share for each other; and that is well spent. Renewing the word; that is the personal level. I have obtained mercy; that I should show You, to the world. The love, I kept for you; is not surrounding Me.		
+289	2018-07-28 12:29:17.790	What significance is the person?	Birth prophesied	Jesus Christ	Genesis 3:15					
+290	2018-07-28 12:32:37.877	What significance is the person?	Geanology prophesied	Jesus Christ	Genesis 17:19			Messianic covenant.		
+291	2018-07-28 12:39:45.877	What significance is the person?	Death prophesied	Jesus Christ	Isaiah 53:8					
+292	2018-07-28 12:44:27.150	What significance is the person?	Resurrection prophesised	Jesus Christ	Isaiah 53:10					
+293	2018-07-28 12:53:07.767	What significance is the person?	First introduced	Jesus Christ	Genesis 1:1, John 1:1			After four hundred silent years.		
+294	2018-07-29 20:52:05.700	To whose advantage am I?	Bathsheba	David	2 Samuel 11:3, 2 Samuel 12:24, 1 Kings 1:11, 1 Kings 1:15, 1 Kings 1:16, 1 Kings 1:28, 1 Kings 1:31, 1 Kings 2:13, 1 Kings 2:18, 1 Kings 2:19			Do you be a man? Future study, may consider the actors in the Bible, and award their holiness in each scenario.		
+295	2018-08-05 22:36:39.007	Joseph and Daniel - Interpretation of Dreams	The matter in My divine heart, is where I Am the same? The similarity is our companion.	Joseph	Genesis 41			Twin sibling said, that the weather is warm, so he will leave the front door open like Omoniyi does.		623
+296	2018-08-05 22:52:27.777	Joseph and Daniel - Interpretation of Dreams	The similarity is our companion.	Daniel	Daniel 2			Twin sibling said, that the weather is warm, so he will leave the front door open like Omoniyi does.		623
+297	2018-08-11 16:31:08.187	Step, in the growth of man.	Naked	Adam	Genesis 3:7, Genesis 3:21					
+298	2018-08-11 16:33:58.300	Step, in the growth of man.	Drink no longer water, but use a little wine for thy stomach's sake and thine often infirmities.	Timothy	1 Timothy 5:23					
+299	2018-08-29 00:00:00.000	Future work	Can SQL?					Who excellent, as parent? When were the mother and father specifically identified in the Bible? Can these problem, be solved by code? Can SQL? Will SQL deliver all the purpose in the Bible? For example, will a query language determine the mother, father, and child relationship? 	sig.eu/wp-content/uploads/2017/02/Building_Maintainable_Software_C_Sharp_SIG.pdf	8900
+300	2018-09-10 19:31:06.737	Our growth are not planned.	Biological	Mary				From man to husband, father; excemption eunuch, virgin.		
+301	2018-09-10 19:35:02.807	Our growth are not planned.	Levitical Priesthood	Aaron				From priest to high priest.		
+302	2018-09-10 19:38:00.957	Our growth are not planned.	Royalty	Judah				Davidic Covenant		
+303	2018-09-10 19:40:09.673	Our growth are not planned.	Citizenship	Paul				Descent, place of birth		
+304	2018-09-10 19:51:06.480	Our growth are not planned.	Rabboni	Jesus Christ	John 20:16					
+305	2018-09-12 10:26:17.837	Whatever they want for people, that is what I want for them.	Urine	Solomon	1 Kings 3:25, 1 Kings 12:16, 1 Kings 12:20					
+306	2018-09-12 22:09:26.003	Move	To testify, His witness.	Jesus Christ	Matthew 3:3, Matthew 11:10, Luke 10:1, Luke 4:43, John 4:4					
+307	2018-09-13 16:19:20.020	Prophecy Role	Prophesy							
+308	2018-09-13 16:19:47.923	Prophecy Role	Interprete							
+309	2018-09-13 16:20:03.067	Prophecy Role	Fulfill							
+310	2018-09-14 13:18:51.923	Exception	Levitical priesthood	Samuel				To whom, I belong; is to whom, I am given.		
+311	2018-09-14 19:27:32.990	Part	Separate	Joseph	Deuteronomy 33:16, Zechariah 13:7, Matthew 26:31, Mark 14:27					
+312	2018-09-14 19:55:56.433	Part	Inheritance	Levi						
+313	2018-09-14 20:01:20.977	Part	Body member	Paul						
+314	2018-09-14 20:58:31.857	Bible statistics	66/40					There are 66 books by approximately 40 authors. 1189 chapters. 	31102 verses. 1 .. 66, sum, 2211.	KHouse.org	1000
+315	2018-09-20 16:01:42.337	Joseph and Daniel - Interpretation of Dreams	I am just a ruler.	Joseph	Genesis 2:17, Genesis 41, Daniel 2, Isaiah 14:12			I am just a ruler; all we need is a change. At East, I left a female, whose name sounds like Andrea, and I call Bill Gates, Bill Gates is sitting at East, facing North, and Bill Gates is talking to some people. We let our self; see as each other.		69
+316	2018-09-20 21:47:54.273	In time, answer past.	King of the Jews	Wise men from the East	Matthew 2:2, Micah 5:2					
+317	2018-09-20 22:45:38.660	In time, answer past.	Forerunner	Disciples	Matthew 17:10-12, Malachi 4:5					
+318	2018-09-20 23:01:05.173	In time, answer past.	Divorce	Pharisees	Matthew 19:3-12, Genesis 2:20-24					
+319	2018-09-12 17:16:14.030	Prayer	Jehovah Rophe					Jehovah Rophe. Be ba se ri won, le se mo won; w'an jo jade lola. As you see them, you know them; they go out together, tomorrow. 2018-09-21 What determines who?		
+320	2018-10-01 22:03:46.297	Saying	Command	God				A command is an instruction from an authority. To benefit as wise. What draws us apart; is our separateness in deed.		
+321	2018-10-02 13:49:35.990	Paradigm Shift	Meeting a new life, is seeing your own, as a personal use.					This is how, I will like my life to be.		
+322	2018-10-02 20:47:21.530	To help to be; as I appraise.	Word	Jesus Christ	John 1:1, Genesis 1:2					
+323	2018-10-02 20:50:02.003	To help to be; as I appraise.	Light	Jesus Christ	John 1:4, John 1:5, John 1:7, John 1:8, John 1:9, John 3:19, John 3:20, John 3:21, John 5:35, John 8:12, John 9:5, John 11:9, John 11:10, John 12:35, John 12:36, John 12:46					
+324	2018-10-05 15:52:28.183	A Knowledge Of Being	Begin	God	Genesis 11:6					
+325	2018-10-05 15:53:50.703	A Knowledge Of Being	Pray fast	Jesus Christ	Matthew 17:21, Mark 9:29, Luke 2:37, Acts 10:30, Acts 14:23, 1 Corintdians 7:5					
+326	2018-10-05 15:55:21.097	A Knowledge Of Being	Scripture Reading	Jesus Christ						
+327	2018-10-05 16:14:44.910	Mostly it is important.	His only Son	Jesus Christ						
+328	2018-10-05 19:07:01.390	Outstanding Word	But you want to put down, eight forty five.						en.wikipedia.org/wiki/Brexit	2312
+329	2018-10-04 22:26:10.547	Place association	Salem	Melchizedek	Genesis 14:18					
+330	2018-10-04 22:30:31.843	Place association	Shiloh	Samuel	1 Samuel 3:21					
+331	2018-10-10 19:23:54.667	From God, to you; that is how, it normally will be.	Akedah	Abraham	Genesis 22:16-18				en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy
+
+	
+332	2018-10-21 12:59:50.523	Finding who?	Son and place naming	Enoch	Genesis 4:17					
+333	2018-10-22 13:42:04.710	To the experiment of age. Opposite analysis.	Fertility	Rebecca						
+334	2018-10-22 13:48:09.173	To the experiment of age. Opposite analysis.	Longevity	Sarah						
+335	2018-10-22 18:15:12.603	The tree of life versus the tree of the knowledge of good and evil	The disappearance of nothingness. The resembling of nothing.	The tree of life	Genesis 2:17, Revelation 22:14			Only a major class; survive the known.		
+336	2018-11-05 11:03:34.670	A Knowledge Of Being	Apocalyptic Books	Jesus Christ	Matthew 24:36					
+337	2018-11-05 22:11:00.000	Nomination	Kinsman Redeemer	Boaz	Numbers 5:8, Numbers 27:11, Ruth 2:1, Ruth 3:9, Ruth 3:12, Ruth 3:13, Ruth 4:1, Ruth 4:3, Ruth 4:6, Ruth 4:8, Ruth 4:14, John 18:26, Romans 16:11					
+338	2018-11-21 14:42:52.970	Word and opposite	Word add take	John	Revelation 22:18-19					
+339	2018-12-04 13:51:51.137	When has He, made Himself in doubt.	Discipline	Jesus Christ	Hebrews 5:8				allen@riverrocknetwork.com	9605
+340	2018-12-20 19:50:30.390	Object-oriented	The specialize man.	Babel	Genesis 11:9, 1 Corinthians 1:10			2018-12-18 15:38:11.130 Look at the ideas in Object-oriented, and express those ideas in God. Conscience of the truth.		5080
+341	2018-12-21 14:48:07.820	Comparative verse	Candle bushel	Jesus Christ	Matthew 5:15,Mark 4:21,Luke 8:16,Luke 11:33					
+342	2018-12-26 00:00:00.000	Titles of God	Jehovah Shammah Presence	God				Work, family. 2018-12-27 What learning, is the trade? 2018-12-27 To meditate between ... a further man.		
+343	2018-12-27 14:22:53.943	Dictionary	Grow	God				Aspiration to grow. G + o = 22. 22 + w = 45. 45 + r = 63.		
+344	2018-12-27 14:23:55.567	Dictionary	Aspiration	God				Aspiration to grow. A spare nation.		
+345	2018-12-31 11:24:57.807	Comparative verse	Turn	Moses	Exodus 3:2-3, Exodus 33:20-23, Revelation 1:10, Revelation 1:12					
+346	2019-01-09 15:15:56.417	Comparative verse	Extend	Daniel	Daniel 9:27, Matthew 24:15, Mark 13:14			Steps to Stages. Those present are final.		
+347	2019-01-31 22:18:16.977	List	Seventy weeks of Daniel	Daniel	Daniel 9:24			To letting Him; practice His known.		
+348	1967-10-15 00:00:00.000	I Am taking you, on a journey	From Malta to Rome. Direction: Northwest. Duration: Ten days.	Paul					google.com/maps/dir/Malta/Italy/@38.7865478,9.9471638,6z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x130e45281d8647c5:0xf582d86136be4239!2m2!1d14.375416!2d35.937496!1m5!1m1!1s0x12d4fe82448dd203:0xe22cf55c24635e6f!2m2!1d12.56738!2d41.87194	
+349	2019-02-05 08:38:17.120	Biblical Calendar	Creation Days	God	Genesis 1			Go around it.		
+350	2019-02-05 08:43:24.790	Biblical Calendar	Life span	Adam						
+351	2019-02-05 08:44:55.740	Biblical Calendar	Noah flood and Noahic Covenant	Noah	Genesis 7:11					
+352	2019-02-05 08:47:05.847	Biblical Calendar	Seventy Weeks	Daniel	Daniel 9					
+353	2019-02-05 08:49:37.607	Biblical Calendar	Passover: Beginning of months: it shall be the first month of the year	Moses	Exodus 12:2					
+354	2019-02-05 09:21:50.857	Biblical Calendar	first resurrection: over these the second death hath no power		Revelation 20:6					
+355	2019-02-07 14:31:20.690	Comparative verse	Send off	Paul	Acts 20:16-38, 1 Samuel 10:17-25			Making as human do.		
+356	2019-02-09 15:09:57.360	Journey	Akedah	Abraham	Genesis 22:4			3		
+357	2019-02-16 21:35:04.343	Comparative verse	Saying, Touch not mine anointed, and do my prophets no harm.	God	1 Chronicles 16:22, Psalms 105:15			Beside my being.		257
+358	2019-02-17 10:02:47.180	UML	For his two mate team. Our interaction, as a personal people.	David				{reign: '40 years', ageAtAssumption: 30}		9803
+359	2019-02-18 21:42:20.483	Characteristic	Longsuffering	God	Romans 2:4, Romans 9:22, 1 Timothy 1:16, 1 Peter 3:20, 2 Peter 3:9, 2 Peter 3:15			I ended capable.		
+360	2019-02-21 01:53:44.143	Object-oriented	Instantiation ... collection, referential integrity		Genesis 14:18, Hebrews 7:1-2			Parents, place of birth?	en.wikipedia.org/wiki/Instance_(computer_science)	
+361	2019-03-10 20:14:56.633	Economics	Demand and Supply		Mark 9:24			Sharing our understanding		
+362	2019-03-10 20:16:45.837	Economics	Profit and Loss		Matthew 16:26, Mark 8:36					
+363	2019-03-11 13:47:36.843	Comparative verse	Out to see a prophet	John the Baptist	Matthew 11:9, Luke 7:26			What produces you; to more?		
+364	2019-03-13 17:42:26.923	Comparative verse	Trajectory	Daniel	Daniel 9:27, Matthew 24:15, Mark 13:14			Is this decided, as same.		
+365	2019-03-18 13:13:17.863	What can you do with words?	Said	God				Creation		
+366	2019-03-18 13:30:50.530	What can you do with words?	Remember							
+367	2019-03-18 13:31:55.803	What can you do with words?	Introduce		Exodus 6:3					
+368	2019-03-18 13:37:25.780	What can you do with words?	Add, take away	John	Revelation 22:18-19					
+369	2019-03-18 13:40:54.370	What can you do with words?	Provoke	Scribes and the Pharisees	Luke 11:53					
+370	2019-03-18 13:45:02.263	What can you do with words?	Clarify	John	John 21:23					
+371	2019-03-18 13:50:25.807	What can you do with words?	Hear		1 Samuel 3:9-11, Acts 22:7, Acts 26:14					
+372	2019-03-18 14:00:09.863	What can you do with words?	Listen		Isaiah 49:1					
+373	2019-03-18 14:03:24.600	What can you do with words?	Confound		Genesis 11:9					
+374	2019-03-18 14:06:09.343	What can you do with words?	Judge							
+375	2019-03-18 14:10:05.480	What can you do with words?	Change	God	Genesis 17:5, Genesis 17:15					
+376	2019-03-18 14:13:27.610	What can you do with words?	Speaking in tongues	Jesus	Mark 16:17					
+377	2019-03-18 18:47:58.527	What can you do with words?	Authority	Centurion	Matthew 8:9, Luke 7:8					
+378	2019-03-18 18:55:18.490	What can you do with words?	Translate		Luke 23:38, John 5:2, John 19:13, John 19:17, John 19:20					
+379	2019-03-19 10:46:52.093	Comparative verse	short day		Matthew 24:22, Mark 13:20					
+380	2019-03-28 21:53:25.323	Messianic Prophecy	Resurrection of Christ	Jesus Christ	Psalms 16:10, Acts 2:27, Acts 13:35				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+381	2019-03-30 10:55:25.993	Messianic Prophecy	Suffering Servant	Jesus Christ	Isaiah 52:12-53:12				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+382	2019-04-01 17:16:17.280	Messianic Prophecy	Forth-coming Prophet	Jesus Christ	Deuteronomy 18:15, John 16:14, Acts 3:18-22				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+383	2019-04-01 19:39:07.400	Messianic Prophecy	Son of David		Ezekiel 37:24, 26-27				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+384	2019-04-01 19:47:57.093	Messianic Prophecy	Immaculate Conception	Jesus Christ	Isaiah 7:14				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+385	2019-04-01 19:53:17.547	Messianic Prophecy	Stone	Jesus Christ	Isaiah 8:14, Psalms 118:22, Isaiah 28:16, 1 Peter 2:8				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+386	2019-04-01 20:04:26.003	Messianic Prophecy	From darkness to light	Jesus Christ	Isaiah 9:1-2, Matthew 4:12-16				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+387	2019-04-01 20:24:38.880	Messianic Prophecy	Death on the Cross	Jesus Christ	Isaiah 11:12, John 12:32				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+388	2019-04-01 20:33:09.690	Messianic Prophecy	Massacre of the Innocents	Jesus Christ	Jeremiah 31:15, Matthew 2:17-18				en.wikipedia.org/wiki/Massacre_of_the_Innocents	
+389	2019-04-01 21:29:32.650	Messianic Prophecy	Birthplace	Jesus Christ	Micah 5:2				en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament	
+390	2019-04-07 15:26:21.487	Doing interpretation	Creation	God	Genesis 1			Christianity; gba ewon. Is it proper to use? SQL vesrus Linq? Order. Faeces. I have done, what I am, suppose to do. A portrayal of our people. To every man, a place. A minimum of containment. Making your own example; showing as me. Table: ActToGod. Column Major: Doing interpretation. Albertsons Lucky. Urine. You grow up; to be a place. 99 Ranch Market. ATM EFTPOS error. 15:36 Microsoft SQL Server datafiles backup. (We are proving difficult) Eyes.		257
+391	2019-04-14 00:28:53.983	Characteristic	Strong courage	Joshua	Deuteronomy 31:6, Deuteronomy 31:7, Deuteronomy 31:23, Joshua 1:6, Joshua 1:9, Joshua 1:18, Joshua 10:25, 1 Chronicles 22:13, 1 Chronicles 28:20			Those are strong are who?		
+392	2019-04-27 06:00:43.580	Arranging at Present: Date of Birth (DOB), Date of Death (DOD)	Judgment of Sodom and Gomorrah. Date of Birth (DOB)	Isaac, Moab, Ben-ammi	Genesis 19:30-38					
+393	2019-04-28 06:03:31.167	Arranging at Present: Date of Birth (DOB), Date of Death (DOD)	Judgment of Solomon. Wisdom of God. Date of Birth (DOB), Date of Death (DOD)	Solomon, two harlots	1 Kings 3:16-28					
+394	2019-04-27 06:07:20.550	Arranging at Present: Date of Birth (DOB), Date of Death (DOD)	Forerunner, Immaculate Conception. Date of Birth (DOB), Date of Death (DOD)	John the Baptist, Jesus Christ	Luke 1, John 12:34			To divide between two world; you need to be above all world. Word of the Day versus Oracle? An equally, present, for the day. Can we remind Him, of His presence (John 3:31)? What remains of me; is how, I have offer me. Amazon. WholeFood. The value; to people. Who among us, talk. In one finding of people; that is excelling. You mind their's; as you mind Him.		
+395	2019-04-28 07:04:19.493	That is not, where His voice is at.	Only begotten Son, Word, hand, Messianic covenant	Jesus Christ				What is reminded, of a people. 2019-04-28 Date written? His chosen (Psalms 105:6).		
+396	2019-04-28 18:09:33.280	Design	To represent all the rest as above.		Genesis 1:26, Revelation 3:12, Revelation 21:2, Revelation 21:23					
+397	2019-04-28 18:50:40.407	When has He use metrics? When is None; the Sum of All?	Near	Lot	Genesis 19:20					
+398	2019-04-30 05:48:06.187	When it is up-to two?	Sibling	Moses	Exodus 2					
+399	2019-04-30 05:48:44.387	When it is up-to two?	Man and woman	Eve	Genesis 3					
+400	2019-04-30 05:50:47.400	When it is up-to two?	Messiah	John the Baptist	Daniel 9:24-27					
+401	2019-05-11 16:52:31.283	Question	Help	Adam	Genesis 2:18, Genesis 2:20			Eve		
+402	2019-05-11 17:26:27.790	Thou, you have not known Me.	Knew	Adam	Genesis 2:19-20					8578
+403	2019-05-14 21:43:56.733	What can you do with words?	Prophetic					A entitlement of ours; is to be same, as normal. What are the benefit of the Word; when spoken, this is true. I visited Wienerschnitzel, I saw Gloria, Filipina, waitress; and a newer waitress, Hispanic. What period, are our life, realizing? I prayed to God, to make me a healer; He said, prophetic is my gift. Is our approach, to others. How can we appreciate, the word, as a further, of our self?		69
+404	2019-05-20 22:39:02.410	When fulfilling, are entire; that is, where I Am.	Dream, speaking with tongues ... interprete		1 Corinthians 14:6					
+405	2019-05-22 22:15:57.370	Terminology	Synoptic Gospels		Matthew, Mark, Luke				en.wikipedia.org/wiki/Synoptic_Gospels	
+406	2019-06-10 18:56:27.593	Question	Oldest person in the bible	Methuselah	Genesis 5:27			And all the days of Methuselah were nine hundred sixty and nine years: and he died.		1000
+407	2019-06-14 17:24:00.000	Comparative verse	Age action	Joseph	Genesis 41:46, Exodus 7:7, 2 Samuel 15:7, Acts 4:22			Ademoji.		
+408	2019-06-15 16:30:58.377	Mystery	Baptism	John						
+409	2019-06-15 16:34:06.440	Mystery	Son of David	Jesus Christ	Matthew 22:44, Mark 12:36, Luke 20:42					
+410	2019-06-15 16:38:06.933	Excluded from the Gospel of John	Son of David	Jesus Christ	Matthew 22:41-46, Mark 12:35-37, Luke 20:41-44			The love that never mix.		
+411	2019-06-15 16:41:37.057	Most time?	Creation days	God	Genesis 1, John 1					
+412	2019-06-15 16:49:25.597	Most time?	Patriach - father's age at birth, and years lived							
+413	2019-06-15 16:50:53.210	Most time?	Kings birth and reign							
+414	2019-06-15 16:55:08.817	Most time?	10 Commandments - Sabbath, honor thy father and mother					A time, whose all?		
+415	2019-06-15 16:57:38.800	Most time?	Our LORD's prayer - Thy Kingdom come							
+416	2019-06-15 17:00:04.653	Most time?	Livelihood - Manner of women, naming ceremony, circumcision, priesthood							
+417	2017-03-06 00:00:00.000	Excluded from the Gospel of John	Marriage is not a practice, in the life after, resurrection	Jesus Christ	Matthew 22:30, Mark 12:25, Luke 20:35					
+418	2019-06-15 22:10:40.357	Most time?	Time's hope	Jesus Christ	Matthew 24:20, Mark 13:18					
+419	2019-06-15 22:18:32.040	Most time?	To a re-cycle of age: Sabbath, month, day, festival							
+420	2019-06-15 22:51:11.183	Creation	To once subject My need.	God	Genesis 1			To a later use, for creating man. The period of advantage; is deserving of equal.		
+421	2019-06-16 11:55:29.327	Most time?	To a plural end.		Genesis 1:14, Genesis 3:8, Genesis 3:14, Genesis 3:17			To a plural end; that is the time. day days month year? God said that the light will separate the day from night, the greater and lesser light; After the fall of man, there is specification of the time of the day; and the judgment says the cummulation of the days.		
+422	2019-06-17 17:54:48.070	His coming and the end of the world	Fig tree	Jesus Christ	Matthew 24:32-34, Mark 13:28-30, Luke 21:29-32			Father figure is suppose to return from his journey within forty days, a commuter is sitting on my document.		
+423	2019-06-19 10:18:15.773	What type of love, do they exemplify?	Paternal	Abraham	Genesis 22:2					
+424	2019-06-19 10:21:12.890	What type of love, do they exemplify?	Brotherly	Cain	Genesis 4:9					
+425	2019-06-19 10:26:57.763	What type of love, do they exemplify?	Neighborly	Jesus	Matthew 5:43, Matthew 19:19, Matthew 22:39, Mark 12:31, Mark 12:33, Luke 1:58, Luke 10:27, Luke 10:29, Luke 10:36					
+426	2019-06-19 10:28:26.297	Excluded from the Gospel of John	Neighborly love	Jesus Christ	Matthew 5:43, Matthew 19:19, Matthew 22:39, Mark 12:31, Mark 12:33, Luke 1:58, Luke 10:27, Luke 10:29, Luke 10:36					
+427	2019-06-19 13:18:00.227	The actuality of God?	God is not a man.	Jesus Christ	Numbers 23:19			In-spite of Him, being the head man; He chose to subordinate. When He sought Himself; He sought a permanent use. The retensive of the future.		
+428	2019-06-20 10:03:14.740	Tribe specificity	Ephraim	Jephthah	Judges 12:1-7					
+429	2019-06-19 10:19:00.000	What type of love, do they exemplify?	Women	Jonathan	2 Samuel 1:26					
+430	2019-06-20 11:56:36.223	Tribe specificity	Seal	Ephraim	Revelation 7:2-8					
+431	2019-07-10 23:31:23.217	Numbers that appear together	7, 8	Anti-Christ	Micah 5:5	122763		How you make use, of His own?		4875
+432	2019-07-11 12:42:17.033	Numbers that appear together	100, 90	Abraham	Genesis 17:17	122763				
+433	2019-07-12 21:48:44.513	Resume	Leadership Accomplished	Jesus Christ	Luke 9:31			Accomplished the customer search and maintenance routine, within the limits of three months, at Daigaku Honyaku Center (DHC).	ocs.fas.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf	1000
+434	2019-07-12 21:59:02.323	Resume	Leadership Contracted					Contract consultant, between July 1994 and January 1999, at Sydney, Australia.	ocs.fas.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf	
+435	2019-07-13 18:00:33.287	What can't Jesus do?	Recipient of our prayer	Jesus	John 16:26					
+436	2019-07-19 10:24:46.603	Eschatology	Possession	God				Ready for a world of Mine. God doesn't try to rely on you, at all; pelu gbogbo ikan ta ma so. God doesn't try to rely on you, at all; in-spite of all we say.		
+437	2019-07-22 22:49:59.220	Fourteen lights, years, children, and generations	Due to association.	God	Genesis 1:16, Revelation 21:23			I will ever be present. Often time is present.		24
+438	2019-07-24 06:36:06.017	Chuck Missler KHouse.org	He can't learn	God	Genesis 6:3			When he went for it all; I finally made it all.		1000
+439	2019-07-25 13:46:32.983	Fourteen lights, years, children, and generations	Sun	David	2 Samuel 3:35, 2 Samuel 12:11, 2 Samuel 12:12			However, You make me; is how, I am pleasantly in use.		
+440	2019-07-29 19:44:30.180	Fourteen lights, years, children, and generations	Twin sibling. Not wanting, a room at home.	Jacob				How do you, call a home; a specialization. South Carolina, African American Senator. Tim Scott, first African American to be elected to both US House and US Senate since Reconstruction, South Carolina. Trey Gowdy, Congress.		TheFriendshipChallenge.com	
+441	2019-08-03 17:59:35.770	Fourteen lights, years, children, and generations	morning star	Jesus Christ	Job 38:7, Revelation 2:28, Revelation 22:16					2100
+442	2019-08-16 16:44:49.517	This is the event, in their lives.	Flee	Jesus Christ	Matthew 2:16			2		
+443	2019-08-16 16:46:36.813	This is the event, in their lives.	Worship	Jesus Christ	Luke 2:42			12		
+444	2019-08-16 16:48:09.313	This is the event, in their lives.	Ministry	Jesus Christ	Luke 3:23			30		
+445	2019-08-16 16:59:02.700	This is the event, in their lives.	Work	Joseph	Genesis 37:2			17		
+446	2019-08-16 17:00:24.423	This is the event, in their lives.	Ruler	Joseph	Genesis 41:46			30		
+447	2019-08-24 19:26:10.270	Name change	Kirjatharba	Hebron	Genesis 23:2	124849				
+448	2019-09-03 06:36:13.573	Comparative verse	Non-human visit	Daniel	Daniel 10:5-21, Genesis 16:11, Matthew 17:1-8, Mark 9:2-8, Luke 9:28-36, 2 Peter 1:16-18, Daniel 4:13, Daniel 4:23			If he comes; here are we, after him. A little present of your after.		1000
+449	2019-09-03 22:05:00.503	Time Span	Four hundred years, twenty years		Genesis 15:13, Genesis 31:38, Genesis 31:41	125300		These are tested, as before.		
+450	2019-09-03 22:12:07.570	Naming	Wikipedia URI					There is no extension, when it doesn't need to be.	en.wikipedia.org/wiki/Elizabeth_Warren	
+451	2019-09-04 12:25:19.850	AC Transit	232			125332		Too tight, is through.		483
+452	2019-09-04 12:34:41.550	Was a	Career		Genesis 4:2	125335		Data migration from spreadsheet to relational database? Database replication between central local to remote sites. Code migration from text-based to the Intranet.		
+453	2019-09-05 05:41:24.813	Naming	Also known as (AKA)	Abraham				Abram		
+454	2019-09-05 05:42:35.943	Naming	Also known as (AKA)	Sarah				Sarai		
+455	2019-09-05 05:44:44.483	Naming	Also known as (AKA)	Israel				Jacob		
+456	2019-09-05 06:03:37.713	Naming	Also known as (AKA)	Jesus Christ				Emmanuel		
+457	2019-09-05 19:03:41.303	Question	Royal Questions	Jesus Christ	Matthew 2:2			Assume His age.		
+458	2019-09-07 05:20:39.090	Expiration	end of speaking	David	1 Samuel 18:1, 1 Samuel 24:16	125381				
+459	2019-09-07 05:27:29.097	Expiration	end of offering	David	2 Samuel 6:18, 1 Chronicles 16:2	125381				
+460	2019-09-07 05:30:56.043	Expiration	David's successor	Solomon	1 Kings 3:1, Isaiah 9:7	125381				
+461	2019-09-09 21:30:00.000	Excluded from the Gospel of John	House of prayer		Matthew 21:13, Mark 11:17, Luke 19:46			You call Your house. Uncle Niyi brought the Cosmo; Digital Led Alarm Clock; model E517A; listed electric clock 768U; UL file no. E64659. Assembled in China. I was already in bed, but this word came to me, as uncle Niyi entered the room.		10179
+462	2019-09-21 13:25:04.927	Whose likeness am I?	Many shall run to and fro	David	Daniel 12:4, Genesis 26:22, 1 Samuel 16:13, 1 Samuel 16:19-22, Revelation 3:7, Revelation 5:5, Revelation 22:16, Genesis 11:4, Genesis 11:8, Genesis 11:9, Genesis 9:19, 2 Kings 2:9, 2 Kings 2:15, 2 Samuel 5:2			I may not have hernia, let's see what we can do? So you remember today; as a form of tomorrow? We will consider eschatology, the study of endtime; and see how the days of old show a trend, and support apocalyptic prophecy. How my living, prevails, tomorrow. Prove for a future life. Subject technology. Appraisal of themselve. A liquid of a person. Whose benefit, do I allude? The choosing, among group? Participate as a people; is apparent as a person.An angel said to prophet Daniel, many shall run to and fro ( Daniel 12:4 ). Is this phenomenal traceable, Biblically, and can we name a person that bears similar resemblance? When we study, king David, we can see that David fled from king Saul, his predecessor; and two of his sons, who purported, to overthrow him as king. In the Book of Revelation, the only three mentions of king David, talk of movement ( Revelation 3:7, Revelation 5:5, Revelation 22:16 ). 2019-09-22 15:12:32.823 A driven world. Destination follow.		
+463	2019-09-22 16:20:07.680	Included in the Gospel of John	Circumcision on the Sabbath day	Jesus Christ	John 7:22-23	125504				
+464	2019-09-23 14:55:40.647	Whose likeness am I?	As someone else.	David	Psalms 16:10, Acts 2:27, Acts 13:35, Revelation 5:5	125528				
+465	2019-09-23 18:53:12.117	Whose likeness am I?	I cannot pass unknown.	Moses	Daniel 11:32, Hebrews 11:24, Exodus 3:2-4, Numbers 10:29-32					
+466	2019-09-25 16:40:53.180	What are His appointment of time?	year	Jesus Christ	Matthew 2:16, Luke 3:23, Luke 4:19					
+467	2019-09-25 16:46:56.190	What are His appointment of time?	day	Jesus Christ	Matthew 4:2, Matthew 6:11, Matthew 7:22, Matthew 10:15					
+468	2019-09-25 16:51:22.503	What are His appointment of time?	hour	Jesus Christ	Matthew 8:13			Heal		
+469	2019-09-25 23:31:13.463	Titles of God	Yahweh	God				The Yoruba word, we means bath. Awe means fast.		
+470	2019-09-26 15:14:08.220	All our type	Creation		Genesis 1	125563				
+471	2019-09-26 15:16:05.020	All our type	Israel	Jacob		125563		First mention; king. Patriach - Jacob. Matriach - Rachel. City - Jerusalem.		
+472	2019-10-10 18:46:57.627	What are name, after man?	Woman	Eve	Genesis 2:22-23	125753				
+473	2019-10-10 18:48:56.860	What are name, after man?	City	Enoch	Genesis 4:17	125753				
+474	2019-10-10 18:51:30.050	What are name, after man?	People	Moabites	Genesis 19:37-38	125753				
+475	2019-10-10 18:52:58.693	What are name, after man?	Disciples	Christians	Acts 11:26	125753				
+476	2019-10-14 23:27:40.850	Included in the Gospel of John	It is finished	Jesus Christ	John 19:30	125795				
+477	2019-10-16 13:16:13.430	Where our differences, arise.	Language	God	Genesis 11:9					
+478	2019-10-16 13:17:34.210	Where our differences, arise.	Work	Adam	Genesis 4:2					
+479	2019-10-17 16:36:48.757	From until	Until this day		Joshua 13:13, Joshua 22:17, 2 Samuel 4:3, 2 Chronicles 8:8, Isaiah 39:6, Matthew 11:23, Matthew 28:15, Acts 23:1, 2 Corinthians 3:14					
+480	2019-10-26 10:38:26.937	Prison	Egypt	Joseph	Genesis 39-40			When relevance to the persecution.		
+481	2019-10-26 10:42:19.817	Prison	Philistine	Samson	Judges 16					
+482	2019-10-26 10:47:17.353	Prison	Israel	Micaiah	1 Kings 22:27, 2 Chronicles 18:26					
+483	2019-10-26 14:17:59.983	Prison	Assyria	Hoshea	2 Kings 17:4					
+484	2019-10-26 14:23:56.560	Prison	Babylon	Jehoiachin king of Judah 	2 Kings 25:27, 2 Kings 25:29					
+485	2019-10-26 16:10:37.440	Prison	Italy	Paul	Acts 26:32					
+486	2019-10-26 19:23:04.660	Prison	Judah	Hanani the seer	2 Chronicles 16:10, 2 Chronicles 16:7					
+487	2019-10-26 19:39:05.033	Prison	Judah	Jeremiah	Jeremiah 29:26, Jeremiah 32:2, Jeremiah 32:8, Jeremiah 32:12, Jeremiah 33:1, Jeremiah 37:4, Jeremiah 37:15, Jeremiah 37:18, Jeremiah 37:21, Jeremiah 38:6, Jeremiah 38:13, Jeremiah 38:28, Jeremiah 39:14, Jeremiah 39:15, Jeremiah 52:11, Jeremiah 52:31, Jeremiah 52:33, Lamentations 3:34			The miracle that happen; are seldom, indeed. There are seventeen references to prison in the book of Jeremiah, and one reference in Lamentation. We follow, after all. A deserving of change (Jeremiah 31:15).		
+488	2019-10-26 21:31:37.353	Prison	Jerusalem	John the Baptist	Matthew 4:12, Matthew 11:2, Matthew 14:3, Matthew 14:10, John 3:24					
+489	2019-10-26 21:33:24.880	Prison	Jerusalem	Barabbas	Matthew 27:15-16, Luke 23:19, Luke 23:25					
+490	2019-10-26 21:50:42.250	Prison	Jerusalem	Peter	Acts 5:18-19, Acts 5:21, Acts 5:22, Acts 5:23, Acts 5:25					
+491	2019-10-26 21:57:28.320	Prison	Patmos	John the beloved disciple	Revelation 2:10			How we let everybody live; is how we possibly will survive ourself.		
+492	2019-10-26 22:08:21.293	Prison	Hell	Satan	Revelation 20:7					
+493	2019-10-27 15:03:35.150	Comparative verse	Queen of the South	Sheba	Matthew 12:42, Luke 11:31	126051				660
+494	2019-11-03 13:45:15.013	The Bible and Yoruba	Four Kingdoms: Merin, 4;  Marun, 5	Daniel	Daniel 2					
+495	2019-11-09 14:57:07.590	Does the name point?	Samuel anointed Saul	Samuel	1 Samuel 15:1					
+496	2019-11-24 21:42:17.190	Event for a day.	Providence	God	Matthew 6:11, Matthew 6:30, Matthew 6:34	126439				
+497	2019-11-24 21:44:43.677	Event for a day.	Judgment	God	Matthew 7:22, Matthew 10:15, Matthew 11:22, Matthew 11:23, Matthew 11:24	126439				
+498	2019-11-25 20:52:15.243	I Myself, dwell in him.	Knew	Adam	Genesis 4:1	126453		Intercourse.		
+499	2019-12-03 18:23:12.837	Excluded from the Gospel of John	Beelzebub	Jesus Christ	Matthew 10:25, Matthew 12:24, Matthew 12:27, Mark 3:22, Luke 11:15, Luke 11:18, Luke 11:19	126564				
+500	2019-12-05 18:16:10.383	Proportion	We are not among.	God	Genesis 16:13, Matthew 17:2, Mark 9:2	126584	5169			
+501	2019-12-09 09:55:51.317	Terminology	Theotokos	Jesus Christ					en.wikipedia.org/wiki/Incarnation_(Christianity)	
+502	2019-12-17 16:03:48.503	Excluded from the Gospel of John	God is not the God of the dead, but of the living	Jesus Christ	Matthew 22:32, Mark 12:27, Luke 20:38					
+503	2019-12-20 21:34:09.580	Knowing the Difference.	The tree of life versus the tree of the knowledge of good and evil	Adam	Genesis 2:9, Genesis 15:13, Genesis 18:19			Patience, grading.		
+504	2020-01-01 15:14:10.670	To know I, as pleasing.	Greatest Commandment	God	Exodus 34:28, Deuteronomy 4:13, Deuteronomy 10:4, Matthew 5:19, Matthew 15:6, Matthew 22:36-40			As Chuck Missler mentioned, the Bible is spread out; how do you find the centrality of things, how can you accomodate man; if you are looking for thing, how do you find it. We all need a people, there is one.		
+505	2020-01-01 15:23:44.860	To know I, as pleasing.	Church	Jesus Christ	Matthew 16:18, Ephesians 5:32, Revelation 1-3, Revelation 22:16			A common theme, is to find the last mention of a word and record the relevant Bible verses; rather recording each verse, can you concatenate the relevant verses into one, as a scripture reference?		
+506	2020-01-01 15:34:48.110	To know I, as pleasing.	Most Holy	Jesus Christ	Daniel 9:24					
+507	2020-01-01 15:41:52.650	To know I, as pleasing.	Sabbath	God	Genesis 2:2-3, Exodus 16, Hebrews 4			Does Google, a search engine, have to be a content provider?		
+508	2020-01-01 15:50:51.810	To know I, as pleasing.	First Born	LORD	Genesis 19:37, Genesis 27:19, Exodus 11:5, Numbers 3:12-13			A improvement on interface.		
+509	2020-01-01 16:05:44.190	To know I, as pleasing.	Immaculate Conception	God	John 3:31			A tie, above the normal. Associate our dependence. Choosing the picking? When I started, I chose to find the meaning of the word, how did the elders do it? Bible word, for instance, search for each occurrence, beginning the phrase; when you hear a word. For instance, after 400 hears of silence, how does the New Testament translate? How do the Apocalyptic books, find there relevance to man? A special of advancing. Christianity? Send a people. To truly alliance. John the Baptist. The past are not rejected; these are our advances.		
+510	2020-01-17 17:06:58.503	Holy	If entirety be the same.			127160				
+511	2020-01-17 18:15:24.240	Holy	Who I know; is how I am personally favored.		Job 42:5, Genesis 18:19, 1 Samuel 13:13-14, 1 Samuel 16:1, Luke 7:9	127161				
+512	2020-01-23 17:52:53.867	Water Dry	Red Sea	Moses	Exodus 14					
+513	2020-02-01 22:02:04.657	Hebrew Yoruba	Alphabet H					The Yorubas do not pronounce the alphabet H.		513
+514	2020-02-07 18:23:31.227	Paradigm shift	Alphabet Sequence versus Commentary			127449		The words didn't make much sense; therefore, the AlphabstSequence may not be right, but the commentary was pausible. But I still went to where the vision led me, and the word was clear and the AlphabetSequence relevant. When does He participate as a person.		991
+515	2020-01-28 23:52:27.560	Paradigm shift	Do not ponder the Word, just take in the scenery and worship God			127317				
+516	2020-02-08 13:42:34.700	Interpretation	Prostrate		Exodus 20:12, Deuteronomy 5:16, Ephesians 6:2	127465		First contact, date of birth (DOB), age		2127
+517	2020-02-12 17:58:20.957	The resume of the Holy Spirit	Birth place	Jesus Christ	 Micah 5:2, Matthew 2:1, Matthew 2:5, Matthew 2:6, Matthew 2:8, Matthew 2:16, Luke 2:4, Luke 2:15, John 7:42					
+518	2020-02-13 18:30:08.063	Israel	Promised Land			127571				
+519	2020-02-14 17:50:53.887	The resume of the Holy Spirit	Indwell in a person	Holy Spirit	Genesis 41:38			Finished washing plates.		
+520	2020-02-22 09:00:42.947	Excluded from the Gospel of John	Tribute to Caesar	Jesus Christ	Matthew 22:17, Mark 12:14, Luke 20:22	127676				
+521	2020-02-25 12:29:42.410	Excluded from the Gospel of John	Veil Temple	Jesus Christ	Matthew 27:51, Mark 15:38, Luke 23:45	127756				5106
+522	2020-03-02 18:47:20.510	Namesake	Enoch	Cain	Genesis 4:17					
+523	2020-03-02 18:49:23.293	Namesake	Israel	God	Genesis 34:7					
+524	2020-03-02 18:52:18.320	Namesake	Judah	Leah	Genesis 29:35					
+525	2020-03-02 19:04:50.167	Namesake	Moab		Genesis 19:37					
+526	2020-03-10 15:12:50.490	Similar Traits	Die	Enoch	Genesis 2:16-17, Genesis 3:3-4, Genesis 5:24	127964				
+527	2020-03-11 06:07:59.120	To look; at the aspiration of kind.	Passover - First and Second month	Moses	Exodus 34:25, Leviticus 23:5, Numbers 9:1-14	127985		After the first Passover in Egypt, the next occurrence of the word Passover, in the Bible, is at Exodus 34:25.		
+528	2020-03-11 06:15:34.083	To look; at the aspiration of kind.	Letter - Written by Jehu, First and Second Letter		2 Kings 10:1-7	127985				
+529	2020-03-11 06:26:24.580	To look; at the aspiration of kind.	Witness (altar) Ed	Joshua	Joshua 22:10-34	127985			en.wikipedia.org/wiki/Witness_(altar)	
+530	2020-03-11 06:31:19.487	To look; at the aspiration of kind.	Forgive	Jesus Christ	Matthew 18:15-35	127985				
+531	2020-03-11 07:25:10.360	To look; at the aspiration of kind.	Tomorrow	James	James 4:13	127985				
+532	2020-03-11 23:55:18.560	Do you; promise your age; as our removal?	Breathe	Adam	Genesis 2:7, Deuteronomy 20:16, Joshua 10:40, Joshua 11:11, Joshua 11:14, 1 Kings 15:29, Psalms 27:12, Ezekiel 37:9, John 20:22	128102		Siward Drive. Deep Creek, Creekwood Drive, Creekwood Terrace. 2020-03-12 04:58:25.033 How allowing man; an update; as personal. 2020-03-12T05:00:00 Create after yourself; for a personal use. 2020-03-12 05:04:49.287 World translation; at level.		
+533	2020-03-11 23:55:18.560	Do you; promise your age; as our removal?	Gift Spirit	Paul	1 Corinthians 12:4, 1 Corinthians 12:9, 1 Corinthians 14:12	128102				
+534	2020-03-11 23:55:18.560	Do you; promise your age; as our removal?	Fruit Spirit	Paul	Luke 11:13, Romans 1:11, 1 Corinthians 12:1, 1 Corinthians 12:4, 1 Corinthians 12:9, 1 Corinthians 14:1, 1 Corinthians 14:12	128102				
+535	2020-03-12 05:54:10.433	To look; at the aspiration of kind.	evening morning	God	Genesis 1:5, Genesis 1:8, Genesis 1:13, Genesis 1:19, Genesis 1:23, Genesis 1:31, Exodus 16:8, Exodus 27:21, Leviticus 24:3, Psalms 55:17, Isaiah 17:14, Ezekiel 33:22, Daniel 8:26	127985		CHARINDEX	https://docs.microsoft.com/en-us/sql/t-sql/functions/charindex-transact-sql?view=sql-server-ver15	69
+536	2020-03-12 11:46:22.630	To look; at the aspiration of kind.	Great less	God	Genesis 1:16, Genesis 12:2, Genesis 18:18, Genesis 27:34, Numbers 24:9, Deuteronomy 15:4, Joshua 17:14, 1 Kings 5:7, Ezra 9:13, Ezekiel 3:12	128144		And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.	elshaddaiministries.us	2191
+537	2020-03-12 12:39:50.380	These I remember; the same as I.	chief of the butlers	Pharaoh		128148			JWada@SelectGroup.com	
+538	2020-03-12 14:13:25.337	To look; at the aspiration of kind.	wind East	Pharaoh	2 Kings 3:17, 2 Kings 13:17, Isaiah 27:8, Ezekiel 40:22, Hosea 12:1	128155			JWada@SelectGroup.com	
+539	2020-03-16 04:02:28.607	seven detectator	spirits	Jesus Christ	Matthew 12:45	128352		I furthered, the course, in me. how, you begin, at celebrating; is how, you are used, at celebrating.		10498
+540	2020-03-16 04:06:06.250	seven detectator	loaves 	Jesus Christ	Matthew 15:34, Matthew 15:36, Matthew 16:10, Mark 8:5, Mark 8:6	128352				
+541	2020-03-16 04:11:42.203	seven detectator	forgive	Peter	Matthew 18:21	128352				
+542	2020-03-16 04:14:01.023	seven detectator	brethren	Jesus Christ	Matthew 22:25	128352				
+543	2020-03-16 04:17:07.267	seven detectator	hour	Jesus Christ	John 4:52	128352				
+544	2020-03-16 04:18:53.520	seven detectator	men		Acts 6:3	128352				
+545	2020-03-16 04:21:40.243	seven detectator	nations		Acts 13:19	128352				
+546	2020-03-16 04:24:20.113	seven detectator	sons	 Sceva	Acts 19:14	128352		There must be, normalizaton of suceses		
+547	2020-03-16 04:26:32.743	seven detectator	days			128352				
+548	2020-03-16 04:27:56.873	seven detectator	have not bowed the knee to the image of Baal.	God	Romans 11:4	128352				
+549	2020-03-16 04:29:27.003	seven detectator	churches	John	Revelation 1:4, Revelation 1:11	128352				
+550	2020-03-16 04:31:46.847	seven detectator	candlesticks	John	Revelation 1:12, Revelation 1:13	128352		when did she say, if is normal with you; it is perfect with me.		
+551	2020-03-16 23:54:20.653	Excluded from the Gospel of John	Seed wife	Jesus Christ	Genesis 4:25, Genesis 17:19, Genesis 24:7, Genesis 38:8, Genesis 38:9, 1 Samuel 2:20, Esther 6:13, Malachi 2:15, Matthew 22:24, Mark 12:19, Mark 12:20, Luke 20:28	128365				
+552	2020-03-19 13:18:31.283	The reflection of its glory	Two years and Under	Jesus Chist	Jeremiah 31:15			I visited London as a ten-year olld; and the USA as a twelve years old.		
+553	2020-03-20 19:39:11.110	Why does God separate?	Light - Evening and Morning	God	Genesis 1:16			Rule		
+554	2020-03-20 19:48:37.493	Why does God separate?	Siblings	God	Genesis 25:23, Genesis 37:9					
+555	2020-03-22 14:55:53.653	Comparative verse	Grow in favor before God man	Samuel	1 Samuel 2:26, Luke 2:52					
+556	2020-03-27 20:07:44.843	Excluded from the Gospel of John	Resurrection	Jesus Christ	Matthew 22:23-45, Mark 12:18-37, Luke 20:27-44					
+557	2020-04-02 14:14:48.773	Included in the Gospel of John	Born again	Jesus Christ	John 3:3, John 3:7	128668				
+558	2020-04-04 05:49:21.990	The law and the prophets	The Fall of Man	God	Genesis 2:17	128695				5207
+559	2020-04-04 05:53:59.470	The law and the prophets	Seventy Weeks of Daniel	Daniel	Daniel 9:24-27	128695				5207
+560	2020-04-04 06:17:27.393	The law and the prophets	Abomination of Desolation	Jesus Christ	Matthew 24:15, Mark 13:14	128695		He is just referring, he does some ...		
+561	2020-04-05 12:29:32.720	Excluded from the Gospel of John	kingdom divided	Jesus Christ	Matthew 12:22-37, Mark 3:22-30, Luke 11:14-26	128710				
+562	2020-04-06 21:34:00.000	Design by Contract	You must be born again to see the kingdom of God	Jesus Christ	John 3:3, John 3:7, 1 Peter 1:23					
+563	2020-04-06 12:50:19.480	Design by Contract	love one another	Jesus Christ	John 13:34, John 13:35, John 15:12, John 15:17					
+564	2020-04-08 17:05:49.807	Opinion	Contrast	David	2 Samuel 17					
+565	2020-04-08 19:23:44.693	Nlt:Nlf. Life time : Life frame	Birth in Bethlehem and flee to Egypt; Nazarene and worship at Jerusalem; Ministry; crucifixion and resurrection.	Jesus Christ						
+566	2020-04-09 10:17:06.447	Genealogy	Generation Listed	Jesus Christ	Matthew 1:17			41		
+567	2020-04-09 10:20:50.593	Genealogy	Generation Listed	David	Ruth 4:18-22			10		
+568	2020-04-09 11:15:54.553	Genealogy	Generation Listed	Timothy	2 Timothy 1:5			3		
+569	2020-04-09 20:36:05.240	Coronavirus Covid-19 Stay at Home	Passover	Moses	Exodus 12:13					2176
+570	2020-04-09 20:36:50.627	Coronavirus Covid-19 Stay at Home	Jericho	Rahab	Joshua 2:18-21					2176
+571	2020-04-10 18:36:05.503	Terminology	Hermeneutics is derived from the Greek word ??æ??î?? (hermeneuo, "translate, interpret")					The Biblical Defense for the Prewrath Rapture of the Church 1 of 3 by Robert Van Kampen https://www.youtube.com/watch?v=25rrtqHmCRw	en.wikipedia.org/wiki/Hermeneutics	

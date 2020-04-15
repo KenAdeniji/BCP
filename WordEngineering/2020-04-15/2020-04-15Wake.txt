@@ -1,0 +1,164 @@
+1	2005-10-26 00:00:00.000	Wake-up orientation sideways, head towards the street, feet towards the backyard.			
+2	2005-10-27 05:48:56.000	Wake-up orientation: Knees upright.			
+3	2008-03-20 04:26:00.000	Wake-up orientation, sideways, towards the middle, knees bowed upright.			
+4	2008-06-30 15:59:00.000	Wake-up Orientation: Knees upright. Last recording of wake-up orientation was on 20080320. 102 days (3 biblical months, 12 days) (3.4 biblical months).			
+5	2008-07-30 07:06:00.000	Wake-up Orientation: Horizontally spread across the bed, Northwards.			
+6	2008-10-20 08:07:00.000	Wake-up orientation: Knees sideways at the middle of the bed.			
+7	2009-01-13 08:25:00.000	Wake-up orientation: Up of the bed, stretched sideway, landscape, both knees at the edge of the right side of the bed.			
+8	2009-05-06 03:21:00.000	Wake-up orientation, both feets off the bed, right, towards the wardrobe; head positioned left, towards the door.			
+9	2009-05-28 06:10:00.000	Wake-up orientation: Right leg center of bed, towards the door. Left leg south of bed, towards the door.	483		
+10	2009-07-12 04:16:00.000	Wake-up sideways, foot towards the side of the door.			
+11	2009-07-13 00:00:00.000	Wake-up sideways, in the middle of the bed, head towards the wardrope, feet towards the door.			
+12	2009-07-20 05:35:00.000	Wake-up sideways, with feet towards the door, and head towards the wardrope.			
+13	2009-07-22 03:15:00.000	Sideways, left towards the door, right knee bowed.			
+14	2009-07-22 07:09:00.000	Sideways, feet on top of each other, towards the door.			
+15	2009-12-13 08:30:00.000	Wake-up orientation, sideways.			
+16	2010-01-15 07:30:00.000	Sideways, feets towards the door.			
+17	2010-08-08 05:58:00.000	Wake-up orientation: 90 degrees anti-clockwise. The head is towards the wardrobe, and the feets are towards the book shelves.			
+18	2010-10-22 21:25:00.000	Both feets towards the door, resting on top of each other. Right foot on top of left foot, (Ito ju mafia) covering two left toes.			
+19	2011-03-02 06:17:00.000	Wake-up orientation: Feet, South West; Head North East.			
+20	2011-04-11 01:30:00.000	Both feets sideways, towards the door.			
+21	2011-04-11 03:25:00.000	Both feets sideways, towards the door.			
+22	2012-01-08 07:13:00.000	Wake-up orientation: Head at East Center, feets at West Center.			
+23	2012-01-24 08:30:00.000	Wake-(o)up orientation: Right k(n)ee upwards, center of the bed. Left feet out of the bed, aligned with the brown paper bag.			
+24	2012-01-30 06:52:00.000	Wake-up orientation: Head passed the table lamp, to the South. Feets crossed, passed the North of the bookshelf.			
+25	2012-07-15 07:43:00.000	Right foot, Center East of the bed. Aligned with the top of the shelf. Left foot, South East of the bed.			
+26	2012-10-03 08:03:00.000	Left feet, over the bed.	2228		
+27	2013-01-15 00:22:00.000	I have walked, toward You. Wake-up oriention: Body facing the West, hands joined, inside the curved knees.			
+28	2013-01-21 06:42:00.000	Wake-up orientation: Feets cross each other at probably the right feet above the left, seven toes, and three toes. Along the brown shoes, dressing.	2369		
+29	2013-01-25 04:08:00.000	Wake-up orientation: Knees at start of book shelf, feets southward.	637		
+30	2013-01-25 07:39:00.000	Knees  at start of book shelf, feets at brown shoes.			
+31	2013-03-27 06:35:00.000	Wake-up orientation: Sleeping between the bed, and the two buckets of clothes at the South border, window. I woke-up with the right feet, above the left feet.			
+32	2013-03-28 08:43:36.040	Right feet, on top of the left feet.			
+33	2013-04-03 04:38:12.710	Wake-up orientation: Both feets out of the bed, eastward. Right feet, at the top of the bookshelf. Left feet, lower down.			
+34	2013-04-03 08:21:00.000	Wake-up orientation: Bended knees, eastward. Right feet on top of left, separated by comforter.			
+35	2013-04-04 01:56:00.000	As this is what I was doing. Wake-up orientation: Center of the northern bookshelf. Left feet, on top. Right feet, half way mark.			
+36	2013-04-04 06:38:00.000	Wake-up orientation: Feets crossed, feets at one quarter of northern bookshelf. Left foot above, and farther to the North. Right feet below, and farther to the South.			
+37	2013-05-20 07:50:33.837	Right knee at bed. Left ankle at bed. Eastward. I didn't know, my divide. 			
+38	2013-05-24 04:58:00.000	Both feets off the bed, and aligned with North of bookshelf.			
+39	2013-05-27 03:11:00.000	Eastward, the  right leg is straight towards the shelf. The left leg is curved at the knee. The legs make a four, 4, shape.	2658		
+40	2013-05-28 04:26:00.000	Head at wardobe. Left leg curves and meets right knee. Both feets, merge.			
+41	2013-06-18 04:50:00.000	Left knee, on the bed, vertically aligned with North of bookshelf. Horizontally aligned with the East of the bed. Right need, upward.			
+42	2013-06-21 05:03:03.290	Right knee, at the border of the East of bed.			
+43	2013-08-19 07:35:00.000	Knees cross, extending eastward. Feet on each other; right feet, left feet. I am seating in the back seat, taking a test.			
+44	2013-08-23 08:29:00.000	Body sideways, feets on top of each other, eastward, align with blue note pad.			
+46	2013-12-06 03:53:00.000	Knees above.			
+47	2014-02-08 07:31:00.000	Both knees up.			
+48	2014-04-08 23:18:00.000	Knees upright, joined; clinched hands joined at heart.			
+49	2014-04-10 08:34:00.000	Eastward, both knees curved, with right knee on top of left knee; right foot on top of left foot.			
+50	2014-04-30 09:14:00.000	Right palm is in fist, and directly below the heart.			
+51	2014-04-30 17:36:00.000	Right feet on top of left feet, eighth toe.			
+52	2014-05-02 05:32:00.000	Kness upright, together; right fist at right chest.			
+53	2014-05-05 06:51:00.000	The right bends, eastward, and it touches the left leg.			
+54	2014-05-10 05:46:00.000	Right feet resting on top of the left feet, at South East; palms on heart.			
+55	2014-05-20 11:41:05.607	Feet at South West; head at North East.			
+56	2014-06-04 06:19:00.000	Feets together at shelf half.	70		
+57	2014-06-19 08:55:00.000	Right hand at umbilicus.			
+58	2014-06-20 06:24:00.000	Right fist at Center chest; feets at South East, left palm at left ear.			
+59	2014-06-30 05:32:00.000	Feet up to knee off the bed. Body above shelf. Feets at North West.			
+60	2014-07-22 10:00:00.000	Wake-up orientation, right palm, east most on west ear; second from West on head mark. Cult Jam. I pray. I am at Center, with people, work colleagues. Bill Gates came to let me know, that I am being relieved of my job. I am standing at North East. Attempting to format a disk, and copy the source files for the database application, I am working on.	69		
+61	2014-07-23 10:04:00.000	Left hand on right ear. RIght hand at right waist, curved out, vertical.			
+62	2014-07-31 03:57:00.000	They are going there. The planes are travelling northward. Wake-up orientation: The left hand is holding the right wrist. Feets on top of one another.			
+63	2014-08-05 16:49:00.000	Left palm on right ear; right hand by right side.			
+64	2014-09-19 20:38:25.763	Wake-up orientation: The bed sheet was drawn lower to the bed. Bottom of the bed. To make man, is to resemble him.	4991		
+65	2014-09-26 04:58:00.000	Wake-up orientation: Head on East border, right leg upright, at center, left leg appears curved. Is this, how You place, your men?			
+67	2014-10-06 09:17:00.000	Both knees, bowed eastward, with the right leg resting on the left leg; both hands between the knees; the right foot resting on the left foot, up to the third toe on the left foot, clockwise.			
+69	2014-12-04 20:05:53.727	Backup. Dizzy. (Jo ko le). Feet on top, of one another. Seven days after Thanksgiving. Pursuing the search; of light. 2014-12-04T20:33:00 ... 2014-12-04T20:59:00. Hotmail.com Please sign in again. To help protect your personal information, we periodically sign you out (for example, after 24 hours or when you sign in 2014-12-04T21:10:00 Dizzy (A ti lo ju) (O pe).
+ Eight days after meeting Nanami.	5049		
+45	2013-08-26 09:00:00.000	Knees upright, fist at chest.			
+66	2014-10-02 04:45:00.000	Feet at South East. Bedsheet, uncover, running downwards.			
+68	2014-10-07 05:14:44.483	Feet at West, head at East Olohun lo mo, iyi pada.. God knows turn around.			
+70	2014-12-05 03:53:00.000	Wake-up orientation: Left foot on top of right foot, rests on the Center toe. (Ija ma de, ni yen, Kehinde).			
+71	2014-12-11 04:15:34.047	Wake-up orientation: Feets at the South East of the bed, the right foot is on the left foot. 15 days after meeting Nanami. 14 days after Thanksgiving.	5049		
+72	2014-12-11 22:32:00.000	Wake-up orientation: Feets at the Center of the bed, the right foot under the left foot; the left foot begins at the right ankle.			
+73	2014-12-14 00:45:00.000	2014-12-13T21:48:00 I have look up, heavens and me. 2014-12-13T23:22:00 E ma si ilekun le, ki John Hell wole. Don't leave the door open, for John Hell to enter. 2014-12-14T00:45:00 Wake-up orientation: Both feet at East, upright, upward, toes down, right foot more eastward. SQL Server script generation error. SkyDrive and GoogleDrive backup error. 2014-12-14T01:38:00 ...2014-12-14T02:14:00.			
+74	2014-12-14 06:18:00.000	Wake-up orientation: Both legs join each other at the knee and ankle; the left leg, East, is on top of the right leg.			
+75	2014-12-27 01:19:00.000	Wake-up orientation: Right leg bends at knee, extends to the left leg.			
+76	2015-01-01 07:17:00.000	Wake-up orientation0: Right knee joins left, and there is a triangle.			
+77	2015-01-02 08:09:00.000	Wake-up orientation: Brown and gray cover on the floor, South West; quilt cover.			
+78	2015-01-10 08:33:18.360	Wake-up orientation Right leg, bed five differences; brown covering, eight differences; bed sheet, blue and white, ten differences; markers in all, twelve.	5109		
+79	2015-01-11 02:41:00.000	Wake-up orientation: How to stand, on your feet. Toes on the bed  The toes were on the bed.			
+80	2015-02-02 10:34:02.810	Comforter quilt cover at South East on the floor. Gray.	235		
+81	2015-02-12 09:00:00.000	Brown quilt cover, comforter, falls on the floor, eastward. 2015-02-11 Could I have, more honey and cedar?			
+82	2015-03-27 07:29:00.000	The pillow with the red case, fell eastward.			
+83	2015-04-12 16:44:00.000	Head rests on right palm, left hand besides the right part of the body, right thigh and knee rests on top of the left, right feet rests on top of the left feet.			
+84	2015-04-17 08:57:51.847	Wake-up orientation: Feets to the East; consider buffet.			
+85	2015-04-22 02:05:00.000	Wake-up orientation: Head at East, lower of pillow; feet at West, at opening of wardrope/closet. I dreamt of Ralph Silverman's father, and him being a military officer, possibly for international affairs.	513		
+86	2015-04-27 09:20:43.463	Both feets at South East of bed, south of bed border, close to the middle of both bookshelf.			
+87	2015-05-03 08:52:00.000	Wake-up orientation: Legs cross at knee, left middle of North bookshelf, right between book shelves.			
+88	2015-05-07 03:57:00.000	Wake-up orientation: West border.			
+89	2015-05-08 01:51:00.000	Wake-up orientation: Left leg, South East of bed; right leg, off the bed, below mid of North bookshelf.			
+90	2015-06-08 16:28:00.000	Wake-up orientation: Right knee to feet, of the bed, eastward.			
+91	2015-06-27 06:14:00.000	Wake-up orientation: Left hand extend out of the bed, between the bed side table and the lamp; right feet extend out of the bed towards the middle of the North bookshelf, left feet almost extend to the South East of the bed.			
+92	2015-07-23 05:09:00.000	Wake-up orientation:  both feet off the bed, to the East. 2015-07-22 19:48:20.187 I will pass through you, today.			
+93	2015-07-23 07:21:00.000	Wake-up orientation:  Right foot off the bed, to the East. 2015-07-22 19:48:20.187 I will pass through you, today.			
+94	2015-08-16 11:27:40.340	Wake-up orientaton: Left feet at right knee, with the toes at the bottom.	6240		
+95	2015-08-21 10:37:43.507	Wake-up orientaton: Placed the right foot from the bed, to the floor. It is not an informed player.			
+96	2015-08-23 10:58:40.167	Now, release of emerging success. I kiss a female, and I saw my family. Comforter falls of bed, partly; at top of North bookshelf, and mid-section of North bookshelf. Comforter falls of bed, partly; at top of North bookshelf, and mid-section of North bookshelf. 			
+97	2015-09-04 17:05:00.000	Both feet lieing on top of one another, pointing downward, with toes slightly separated.			
+98	2015-09-20 10:59:12.210	Body eastward, head vertically align with the metal on the ground, beside the door.			
+99	2015-10-02 15:20:00.000	Wake-up orientaton: Both legs and hands together, facing East; curved at the elbow and knee.			
+100	2015-10-22 01:28:00.000	Wake-up orientaton: face down, ass up, toes down standing upright, right foot at East border, left foot at Center.			
+101	2015-10-23 04:23:00.000	Head at North West, with both hands below the head; feet at South East with right foot above the left foot.			
+103	2015-11-15 11:42:00.000	Right elbow between both pillows, legs meet at left knee, right protude eastward, across.			
+104	2015-12-02 21:21:00.000	Both hands clutched together towards the heart, and the right foot resting on top of the left feet; remember the Hispanic job agent with the Latin name.			
+105	2015-12-02 21:21:00.000	Both hands clutched together towards the heart, and the right foot resting on top of the left feet; remember the Hispanic job agent with the Latin name.			
+106	2015-12-07 03:40:14.247	Sideways, feet at West, head at East; feet beside lamp, head approaching door.			
+107	2015-12-12 06:25:00.000	Wake-up orientation: West border, head on both hands, left hand more inward, left foot resting on right foot, midway; backup urine.		Daniel 12:13	
+108	2015-12-17 06:50:00.000	Wake-up orientation: Body at East border, feet at South East of bed.			
+109	2015-12-18 02:07:00.000	Left leg at Center, right leg at East.			
+110	2015-12-30 03:05:00.000	After viewing us, save lives. 2015-12-30T04:05:00 Wake-up orientation: Left foot, upright; right foot on top of left.			
+111	2016-02-05 10:45:54.950	Wake-up orientation: Feet at West, left thumb on top right thumb; head at East, both hands diagonal with left hand stretching to meet right.			
+112	2016-02-25 08:27:00.000	Wake-up orientation: Aligned with the Center of the window, feet on top of each other, and palms at chest.			
+113	2016-03-09 10:32:33.103	Wake-up orientation: Head North West, feet South East, with right foot, off the bed.			
+114	2016-03-14 12:57:58.737	Wake-up orientation: Right leg at bookshelf, North; left leg at bed South East.			
+115	2016-03-29 10:36:53.457	Wake-up orientation: Left foot at beginning of closet, right foot, foot size, beside it; comforter falls towards  on the carpet towards the closet; thinking of building space invaders going northward of the screen.			
+116	2016-03-29 11:02:58.597	Wake-up orientation: Feet crossed, right hand at heart, left hand at scar on head.			
+118	2016-05-07 17:18:06.717	Wake-up orientation: Feet cross, hands at head.			
+119	2016-05-22 10:48:28.450	Wake-up orientation: left palm between mark on right hand and right elbow.			
+120	2016-05-29 12:20:41.993	Wake-up orientation: Head, East; left feet, West; right feet, Center; legs cross at knee.			
+121	2016-06-02 11:19:19.323	Wake-up Orientation: Left leg, off the bed, West; align with the towel.			
+122	2016-06-06 09:58:49.400	Wake-up Orientation: Right foot out of bed, at bookshelf North; left foot at right  knee.			
+123	2016-06-12 17:20:37.813	Wake-up orientation: Right plam on heart; one knee, upright; left palm on ear.			
+124	2016-07-22 10:21:06.363	Wake-up orientation: Feet at South of the bed.			
+125	2016-08-07 07:26:30.357	Wake-up orientation: Foot, right, off the bed; probably at the bottom, South.			
+126	2016-12-02 22:05:00.000	Wake-up Orientation: Feet tied up, palms on chest.			
+102	2015-10-24 05:14:00.000	Knees upright, joined together; feet part; hands joined at chest.			
+117	2016-03-31 10:44:19.693	Bill Gates is collecting examination paper, I sit at South East, we are taking examination, Bible knowledge, the first answer is Lot or Aaron's tribe, Enoh? Wake-up orientation: Head at center of pillow, resting on both arms, right elbow curved between both pillows, feet on top of one another, South East of bed.	69		
+127	2017-12-15 06:55:38.313	Wake-up Orientation: both knees upright, at West; joined together, towards the clothes closet.			
+128	2017-12-16 06:46:51.860	Wake-up Orientation: Left leg crosses the right leg, at knee.			
+129	2018-01-01 09:27:48.140	Wake-up Orientation: Legs crossed, at West; hands crossed at East, lying down horizontally.			
+130	2018-05-26 08:44:45.910	Wake-up Orientation: Head at East, below the pillow; feat off the bed, at West.			
+131	2018-05-27 07:46:42.200	Wake-up Orientation: Feet together aligned with the North bookshelf half, at East; head at West below the lamp and beside the clock, right foot above leg left foot thumb.			
+132	2018-05-31 10:21:19.790	Wake-up Orientation: Diagonally, head at East, feet at West, right hand bowed, left palm clutched at middle of chest.		1 Chronicles 10:13-14	
+133	2018-06-02 05:34:45.330	Wake-up Orientation: Right hand bowed and palm at middle of chest, the feet are crossed.			
+134	2018-07-15 09:20:55.823	Wake-up Orientation: Sideways, head aligned with the Center plastic bowl of ice cream.			
+135	2018-07-30 10:19:57.960	Wake-up Orientation: Feet at South West, head at South East.			
+136	2018-08-13 08:54:29.907	Wake-up Orientation: Head at North West, feet at South East.			
+137	2018-08-16 11:33:01.827	Wake-up Orientation: Head at North West, South of bed side table, feet together, off the bed at Center of bed.			
+138	2018-09-12 09:33:37.627	Wake-up Orientation: Both fists at chest.			
+139	2018-10-04 10:52:54.473	Wake-up Orientation: One leg at the 30 minutes, half an hour line; the other leg, further clockwise, between thirty five and forty five rank.			
+140	2018-10-23 05:55:25.863	Wake-up Orientation: Left knee at left pillow. (O fe ke?) 05:27 Urine.  05:47 Urine.			
+141	2019-01-15 10:05:01.623	Wake-up Orientation: Right foot off the bed, at half East bookshelf.			
+142	2019-02-03 05:08:40.347	Wake-up Orientation: Both feet at the Southeast border, head at the Northwest border, bold slanting across the bed, diagonally. Left hand at the middle of the pillows, the green pillow is at West, and the grayish brown pillow at the East; fingers at the middle, left thumb at the eight line of the East pillow, second from left finger at the thirteenth line, middle finger at fifteenth line, fouth from left finger at the eighteenth line. Left elbow, at the seventh green line, West pillow. Twin sibling said that the time minutes mark is at the forty fifth mark, and he is currently taking his shower, and I may not have time to take my shower; that the lady at East went with the older male, to ride his car, they went early, we will take the bus which passes the South, and its off schedule. Fifty third Super Bowl at Atlanta. 0001-01-01 ... 2019-02-03, 737092 days (2047 biblical years, 5 biblical months, 22 days) (2018 years, 1 month, 2 days). 737092 * .45 = 331691.4 days. 0001-01-01 + 331691 = 0909-02-21			en.wikipedia.org/wiki/Super_Bowl_XLV
+
+
+143	2019-02-16 03:58:25.997	I will put the BART. I will put the BART; in color. Wake-up Orientation: Left hand at the Southcenter of the head; right hand at the Center of the chest. foot on each other. Playing card game, and drawing.	977		
+144	2019-04-07 11:33:21.677	2019-04-06 Creekwood Hindi meeting. 2019-04-07 Wake-up with bedsheet green and white, away from the bed, to the South.			
+145	2019-04-14 09:41:27.897	Wake-up Orientation: One-third wardrobe, North.			
+146	2019-04-14 10:03:42.120	Wake-up Orientation: Bedsheet, one fourth uncovered, Northwest.			
+147	2019-04-28 05:00:24.240	The uncompleted is invisible. The cashier teller admits that they cannot record all their transactions. Wake-up orientation: Right knee beside right pillow, right knee at 7/8th of bookshelves; left knee align with the top of the wardrope, left foot at the 3/4 of bookshelves. A home; feeding. I didn't care about Chuck Missler background; what he had to say?			
+148	2019-07-11 10:29:44.677	Right leg, North bookshelf top; left leg, North bookshelf mid.			
+149	2019-08-05 07:57:43.400	Wake-up Orientation: Horizontally, with head beside the wardrobe and feet towards the East, bookshelf; right hand at South extend to waist, left side aligned with the pillows to the North, right leg at umbrella 7/8th aliign with the vertical bookshelf.			
+150	2019-08-26 10:04:47.630	Wake-up Orientation: Both feet at West, off the bed; head at East, below the pillow, right hand below the head; left hand on pillow.			
+151	2019-10-04 08:20:54.353	Wake-up Orientation: Both palms together, at lamp, right palm in fist; right elbow at the beginning of the West border of the East pillow; left elbow at the top of the East bedsheet North border; left feet align with right knee; right feet off the bed align with towel at the Center of the North bookshelf.			
+152	2019-10-04 23:41:20.790	Wake-up Orientation: Head to the North of lamp and bedside table; left arm curves eastward towards right hand; left and right knees cross aligns with the towel; left knee drops southward, and right knee extends eastward with ankle off the bed at the border.			
+153	2019-10-09 07:33:13.437	Wake-up Orientation: Body diagonal, NorthWest to SouthEast; left hand curved, toward right shoulder, right hand along the right body border.			
+154	2019-10-13 03:14:45.470	Wake-up Orientation: Head above South of the bedside table, left shoulder below lamp, left hand separate from body, right hand curver eastward across head; right feet off the bed, align with the towel; left feet, SouthEast of bed, align with bag, and in the Center of both shelves.			
+155	2019-10-16 06:33:20.913	Wake-up Orientation: Head at lamp; right palm at left shoulder, left elbow and right elbow; left palm at left knee; right knee at left feet; right feet at Center of North book shelf. Body in steps. To this upward, living. As I was trying to remember how I woke-up, my position; God told me to remember my feet. Our support are none, when we are baseless. Girl, female, entered the BART train, carrying a bag. FIFA World Cup. Japan Korea 2002. Feet reference, bookshelf. This reference, have I made you. Union City BART Station. Train headed to Richmond; I headed to Emeryville. MacArthur BART Station. Via. http://www.emerygoround.com
+ He built Pixar. New York.			
+156	2019-10-24 08:03:22.183	Wake-up Orientation: Left hand and elbow across head, eastward; right hand elbow across body, eastward;; legs across eash other, feet and toes on top of one another; align with Daiso sleepers.			
+157	2019-10-31 10:12:33.783	Wake-up Orientation: Left elbow at left pillow and curved at face; right palm curved and shows; right foot at bed West border and aligned with wardrope; left feet aligned at Center of North bookshelf; both knees joined together.			
+158	2020-02-28 09:30:19.277	How long will you rise? Before coming down. Wake-up Orientation: Left foot resting on the floor, at East; both knees, off the bed; right foot also off the bed, but I don't think, touching floor.			
+159	2020-02-29 09:41:58.087	Wake-up Orientation: Feet at 3/4 of bookshelf.			
+160	2020-03-28 11:58:13.933	Wake-up Orientation: Right foor off the bed, aligned with the bookshelf North; left foot close to the border, align with umbrella and Danish cookies metal container.			
